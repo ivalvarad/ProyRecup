@@ -1,0 +1,1750 @@
+<!DOCTYPE html>
+<html lang="en" id="topic" class="nojs us" data-root="//www.nlm.nih.gov/medlineplus">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta http-equiv="window-target" content="_top" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta charset="utf-8">
+
+
+  <meta name="ac-dictionary" content="medlineplus-ac-dictionary" />
+    
+  <meta name="description" content="Caregivers" />
+    
+    
+
+    
+    <meta name="keywords" content="Caregivers"/>
+    <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="The Dublin Core metadata Element Set"/>
+    <meta name="DC.Title" content="Caregivers"/>
+    
+    <meta name="DC.Subject.MeSH" content="Caregivers"/>
+    <meta name="DC.Subject.MeSH" content="Family"/><meta name="DC.Subject.MeSH" content="Health Care Facilities, Manpower, and Services"/><meta name="DC.Subject.MeSH" content="Psychology, Social"/>
+    <meta name="DC.Relation.IsPartOf" content="Social/Family Issues"/><meta name="DC.Relation.IsPartOf" content="Health System"/>
+    <meta name="DC.Identifier.URL" content="https://www.nlm.nih.gov/medlineplus/caregivers.html"/>
+    <meta name="DC.Publisher" content="National Library of Medicine"/>
+    <meta name="DC.Language" content="eng"/>
+    <meta name="DC.Type" content="Text"/>
+    <meta name="DC.Date.Modified" content="2015-10-09"/>
+    
+    <meta name="NLMDC.Date.Modified.Major" content="2015-03-25"/>
+    <meta name="DC.Date.Created" content="1999-11-03"/>
+    
+
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="https://www.nlm.nih.gov/medlineplus/images/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://www.nlm.nih.gov/medlineplus/images/touch-icon.png">
+
+  <!-- FB -->
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Caregivers: MedlinePlus" />
+  <meta property="og:url" content="https://www.nlm.nih.gov/medlineplus/caregivers.html" />
+  <meta property="og:image" content="https://www.nlm.nih.gov/medlineplus/images/family4.jpg" />
+  <meta property="og:description" content="Learn about more than 950 health conditions and wellness issues at MedlinePlus. Health topics on MedlinePlus are updated daily and reviewed regularly." /> 
+  <link rel="canonical" href="https://www.nlm.nih.gov/medlineplus/caregivers.html" />
+
+  <link rel="alternate" type="application/rss+xml" title="Caregivers: MedlinePlus" href="https://www.nlm.nih.gov/medlineplus/feeds/topics/caregivers.xml" />
+
+  <!-- RWD Meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/common.css">
+  <!--[if IE 8]> <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/ie8/common.css"> <![endif]-->
+  
+<style>
+   #topic #tocdiv1, #topic #tocdiv2, #topic #tocdiv3 { 
+	min-height:48px;
+   }
+   #topic #tocdiv3 {
+	min-height:64px;
+   }
+   #topic #tocdiv4, #topic #tocdiv5 {
+	min-height:80px;
+   }
+}
+</style>
+
+	<link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/topic.css">
+	<!--[if IE 8]> <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/ie8/topic.css"><![endif]-->
+		
+  
+  <script type="text/javascript">document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className.replace( /(?:^|\s)nojs(?!\S)/g , '').trim();</script>
+
+  
+  <title>Caregivers: MedlinePlus</title>
+
+
+  <script language="javascript" id="_fed_an_ua_tag" src="//www.nlm.nih.gov/core/dap/Universal-Federated-Analytics.js?agency=HHS&subagency=NIH&enhlink=true"></script>
+      
+</head>
+
+<body itemscope itemtype="http://schema.org/MedicalWebPage">
+  <link itemprop="audience" href="http://schema.org/Patient" /> 
+  <div id="mplus-wrap">
+    <!-- Header
+    ================================================== -->
+    <header>
+      <div id="mplus-header">
+        <a name="top" id="top"></a>
+        <a class="hide-offscreen" href="#start">Skip navigation</a>
+        <!-- Orgs
+        ================================================== -->
+        <div id="mplus-orgs">
+          <a href="http://www.nih.gov/" class="nih-org" target="_blank" title="National Institutes of Health">
+            <img class="nihlogo" src="https://www.nlm.nih.gov/medlineplus/images/nihlogo.png" alt="National Institutes of Health"/>
+          </a><a href="https://www.nlm.nih.gov/" target="_blank">
+            U.S. National Library of Medicine
+          </a>
+        </div>
+        <!-- Logo
+        ================================================== -->
+        <div id="mplus-logo">
+          
+          <a href="https://www.nlm.nih.gov/medlineplus/">
+            
+              <img alt="MedlinePlus Trusted Health Information for You" title="MedlinePlus Trusted Health Information for You" src="https://www.nlm.nih.gov/medlineplus/images/m_logo.png">
+            
+          </a>
+        </div>
+        <!-- Nav Menu
+        ================================================== -->
+        <div id="mplus-nav">
+          <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+          <!-- Menu Button-->
+          <button id="sm-menu-btn" class="navmenu-btn" title="Menu" role="button" aria-controls="mplus-menu-list" type="submit">Menu<span class="icon icon-nav-menu"></span></button><ul id="mplus-menu-list" class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html" class="active">Health Topics</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+          </ul><button id="sm-search-btn" class="navmenu-btn" title="Search" role="button" aria-controls="mplus-search" type="submit"><span class="hide-offscreen"></span>Search<span class="icon icon-nav-search"></span></button>
+          <!-- Search
+          ================================================== -->
+          <form id="mplus-search" method="get" action="//vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" title="Search MedlinePlus" target="_self">
+            <input type="hidden" name="v:project" value="medlineplus"/>
+            <input type="hidden" name="v:sources" value="medlineplus-bundle"/>
+            <div class="form-box text-combo">
+              <div class="form-area"><label class="hide-offscreen" for="searchtext_primary">Search MedlinePlus</label>
+              <input id="searchtext_primary" class="form-text" type="text" placeholder="Search MedlinePlus" alt="Site Search input" title="Site Search input" maxlength="400" size="40" name="query" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+            </div>
+            <div class="button-area">
+              <button class="form-btn" title="Search MedlinePlus" alt="Search MedlinePlus" type="submit">GO</button>
+            </div>
+          </div>
+        </form>
+        <!-- Secondary Nav
+        ================================================== -->
+        <div class="secondarynav">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html"><span>About MedlinePlus</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html"><span>Site Map</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html"><span>FAQs</span></a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/caregivers.html"><span>Contact Us</span></a></li>
+          </ul>
+        </div>
+        <!-- Nav Bar
+        ================================================== -->
+        <div id="mplus-nav-bar">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html" class="active">Health Topics</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+          </ul>
+        </div>
+        
+        <!-- Language Toggle -->
+        <a id="mplus-lang-toggle" href="https://www.nlm.nih.gov/medlineplus/spanish/caregivers.html" title="Español">Español</a>
+        
+      </div>
+
+                    
+
+
+
+      </div>
+    </header>
+    <!-- Content
+    ================================================== -->
+    <div id="mplus-content">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    <!-- Breadrcumbs -->
+    <div id="breadcrumbs">
+      <span class="hide-offscreen">You Are Here:</span>
+      <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="https://www.nlm.nih.gov/medlineplus/" itemprop="url"><span itemprop="title">Home</span></a>
+          &rarr;
+      </div>
+    
+      
+        <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+          <a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html" itemprop="url"><span itemprop="title">Health Topics</span></a>
+          
+            &rarr;
+          
+        </div>
+      
+    
+      
+        <div>
+          <span>Caregivers</span>
+        </div>
+      
+    
+    </div>
+  
+    <span class="page-url print-only">URL of this page: https://www.nlm.nih.gov/medlineplus/caregivers.html</span>
+  
+    
+    
+
+
+
+
+
+<div id="topic">
+<article>
+<div class="page-info">
+  
+  <div class="page-title">
+    <a name="start" id="start"></a>
+    <h1 itemprop="name">Caregivers </h1>
+    
+  </div>
+  
+    <div class="page-actions">
+      
+
+
+
+     
+       
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+                
+
+
+
+
+
+		
+
+		<div class="addthis_toolbox">
+		
+		
+			
+			
+			
+				<span>
+					<a target="EmailWin" class="email_icon" title="Email this page to a friend" href="mailto:?subject=Caregivers%3A%20MedlinePlus&amp;body=I%20found%20this%20information%20on%20MedlinePlus%2Egov%20and%20I%27d%20like%20to%20share%20it%20with%20you%3A%0A%0Ahttps%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fcaregivers%2Ehtml%0A%0AMedlinePlus%20%28https%3A%2F%2Fmedlineplus%2Egov%29%3A%20Trusted%20Health%20Information%20for%20you%20%0A%0ATo%20get%20updates%20by%20email%20when%20new%20information%20becomes%20available%20on%20MedlinePlus%2C%20sign%20up%20at%20https%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Flistserv%2Ehtml%2E%0A%0A">
+						<img alt="Email this page to a friend" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_email.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span>
+					<a class="mplus_print" title="Print" href="#">
+						<img alt="Print" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_print.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_facebook" title="Facebook">
+						<img class="share-icon" alt="Facebook" src="https://www.nlm.nih.gov/medlineplus/images/i_share_fb.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_twitter" title="Twitter">
+						<img class="share-icon" alt="Twitter" src="https://www.nlm.nih.gov/medlineplus/images/i_share_twitter.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+
+			
+
+			
+				<span>
+					<a title="Bookmark &amp; Share" href="https://www.addthis.com/bookmark.php?pub=medlineplus&amp;lng=en&amp;title=Caregivers%3A%20MedlinePlus" target="_blank">
+						<img alt="Bookmark &amp; Share" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_addthis.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+                                <span>
+                                        <a class="rss_feed_icon" title="Subscribe to RSS" href="https://www.nlm.nih.gov/medlineplus/feeds/topics/caregivers.xml">
+                                                <img class="share-icon" alt="Subscribe to RSS" src="https://www.nlm.nih.gov/medlineplus/images/i_share_rss.png"/>
+                                        </a>
+                                </span>
+			
+		
+		</div>
+
+
+    </div>
+   
+    <noscript>
+      <span class="js-disabled-message">To use the sharing features on this page, please enable JavaScript.</span>
+    </noscript>
+  
+</div>
+<div class="main">
+  
+    <!-- TOC box section -->
+    <section id="toc-section">
+     <div id="table-of-contents">
+        <span class="toc-label">On this page</span>
+        
+     <div class="toccolumn"> 
+       <h3>Basics</h3>
+        <ul class="bulletlist">
+          
+          
+            <li>
+              <a href="#summary" title="Go to: Summary">Summary</a>
+            </li>
+          
+                <li>
+                  <a href="#cat51" title="Go to: Start Here">Start Here</a>
+                </li>
+              
+        </ul>
+      </div>
+      
+     <div class="toccolumn"> 
+       <h3>Learn More</h3>
+        <ul class="bulletlist">
+          
+          
+                <li>
+                  <a href="#cat47" title="Go to: Related Issues">Related Issues</a>
+                </li>
+              
+                <li>
+                  <a href="#cat42" title="Go to: Specific Conditions">Specific Conditions</a>
+                </li>
+              
+        </ul>
+      </div>
+      
+    <p class="evencols clearsection hrdividor"/>
+      
+     <div class="toccolumn"> 
+       <h3>See, Play and Learn</h3>
+        <ul class="bulletlist">
+          
+          
+            <li><span class="noinfo-subcat">No links available</span></li>
+            
+        </ul>
+      </div>
+      
+    <p class="threecols clearsection hrdividor" />
+            
+     <div class="toccolumn"> 
+       <h3>Research</h3>
+        <ul class="bulletlist">
+          
+          
+                <li>
+                  <a href="#cat79" title="Go to: Statistics and Research">Statistics and Research</a>
+                </li>
+              
+                <li>
+                  <a href="#cat27" title="Go to: Clinical Trials">Clinical Trials</a>
+                </li>
+              
+                <li>
+                  <a href="#cat59" title="Go to: Journal Articles">Journal Articles</a>
+                </li>
+              
+        </ul>
+      </div>
+      
+    <p class="evencols clearsection hrdividor"/>
+      
+     <div class="toccolumn"> 
+       <h3>Resources</h3>
+        <ul class="bulletlist">
+          
+          
+                <li>
+                  <a href="#cat83" title="Go to: Find an Expert">Find an Expert</a>
+                </li>
+              
+                <li>
+                  <a href="#cat84" title="Go to: Finance and Policy">Finance and Policy</a>
+                </li>
+              
+        </ul>
+      </div>
+      
+     <div class="toccolumn"> 
+       <h3>For You</h3>
+        <ul class="bulletlist">
+          
+          
+                <li>
+                  <a href="#cat8" title="Go to: Children">Children</a>
+                </li>
+              
+                <li>
+                  <a href="#cat24" title="Go to: Teenagers">Teenagers</a>
+                </li>
+              
+                <li>
+                  <a href="#cat23" title="Go to: Seniors">Seniors</a>
+                </li>
+              
+                <li>
+                  <a href="#cat69" title="Go to: Patient Handouts">Patient Handouts</a>
+                </li>
+              
+        </ul>
+      </div>
+      
+     </div>
+    </section>
+    
+<!-- Topic Summary Section -->
+<a name="summary"></a>
+<section id="topsum_section">
+    <div class="summary-title">
+     <h2>Summary</h2>
+    </div>
+    <div id="topic-summary"><p>Caregivers provide help to another person in need. The person receiving care may be an adult - often a parent or a spouse - or a child with special medical needs. Some caregivers are family members. Others are paid. They do many things:</p>
+<ul>	
+<li>Shop for food and cook</li>
+<li>Clean the house</li> 
+<li>Pay bills</li> 
+<li>Give medicine</li> 
+<li>Help the person go  to the toilet, bathe and dress</li> 
+<li>Help the person eat</li> 
+<li>Provide company and emotional support</li> 
+</ul>
+
+<p>Caregiving is hard, and caregivers of chronically ill people often feel <a  name="noreveal" href='https://www.nlm.nih.gov/medlineplus/stress.html'>stress</a>. They are "on call" 24 hours a day, 7 days a week.  If you're caring for someone with mental problems like <a  name="noreveal" href='https://www.nlm.nih.gov/medlineplus/alzheimerscaregivers.html'>Alzheimer's disease </a> it can be especially difficult. Support groups can help.</p>
+
+<p class="attribution">Dept. of Health and Human Services Office on Women's Health</p></div>
+</section>
+
+  <a name="cat51"></a>
+  <section id="cat51_section">
+   <div class="section">
+    <div class="section-header expanded">
+     <div class="section-title">
+      
+  
+  <h2>Start Here</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section51" class="section-body expanded" aria-expanded="true">
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://familydoctor.org/familydoctor/en/seniors/caregiving/caregiver-health-and-wellness.printerview.all.html" target="TheNewWin" >Caregiver Health and Wellness</a> <span class="desc-text">  <span class="orgs"> (American Academy of Family Physicians)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://es.familydoctor.org/familydoctor/es/seniors/caregiving/caregiver-health-and-wellness.printerview.all.html" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://womenshealth.gov/publications/our-publications/fact-sheet/caregiver-stress.html" target="TheNewWin" >Caregiver Stress</a> <span class="desc-text">  <span class="orgs"> (Department of Health and Human Services, Office on Women's Health)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://go4life.nia.nih.gov/sites/default/files/CaregiversandExercise.pdf" name="theORG_NIA" target="TheNewWin" >Caregivers and Exercise -- Take Time for Yourself</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.eldercare.gov/Eldercare.NET/Public/Resources/Advanced_Care/docs/CaregiversAndSeriousIllness.pdf" target="TheNewWin" >Caregivers and Serious Illness</a> <span class="desc-text">  <span class="orgs"> (Administration for Community Living)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.gov/publications/patient-education/caring-for-the-caregiver" name="theORG_NCI" target="TheNewWin" >Caring for the Caregiver</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Cancer Institute)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://www.cancer.gov/espanol/cancer/sobrellevar/familia-y-amigos/caregiver-spanish-Jan2014.pdf" name="theORG_NCI" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.org/treatment/caregivers/copingasacaregiver/coping-checklist-for-caregivers" target="TheNewWin" >Coping Checklist for Caregivers</a> <span class="desc-text">  <span class="orgs"> (American Cancer Society)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/health/publication/so-far-away-twenty-questions-and-answers-about-long-distance-caregiving/finding" name="theORG_NIA" target="TheNewWin" >Finding More Help (Long Distance Care-Giving)</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq#section/_28" name="theORG_NCI" target="TheNewWin" >Help for the Caregiver</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Cancer Institute)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.eldercare.gov/ELDERCARE.NET/Public/Resources/Factsheets/Respite_Care.aspx" target="TheNewWin" >Respite Care</a> <span class="desc-text">  <span class="orgs"> (Administration on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/taking-care-you-self-care-family-caregivers" target="TheNewWin" >Taking Care of You: Self-Care for Family Caregivers</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_300657.pdf" target="TheNewWin" >What Is Caregiver Burnout?</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/easyreadgreen.gif' width='79' height='11' title='Easy-to-Read' alt='Easy-to-Read'/> <span class="orgs"> (American Heart Association)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat47"></a>
+  <section id="cat47_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Related Issues</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section47" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://www.eldercare.gov/ELDERCARE.NET/Public/Resources/Factsheets/Adult_Day_Care.aspx" target="TheNewWin" >Adult Day Care</a> <span class="desc-text">  <span class="orgs"> (Administration on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.medicare.gov/nursinghomecompare/Resources/Nursing-Home-Alternatives.html" target="TheNewWin" >Alternatives to Nursing Homes</a> <span class="desc-text">  <span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.heart.org/HEARTORG/Conditions/More/MyHeartandStrokeNews/Busy-Parents-and-Caregivers-Must-Care-for-Themselves_UCM_448651_Article.jsp" target="TheNewWin" >Busy Parents and Caregivers Must Care for Themselves</a> <span class="desc-text">  <span class="orgs"> (American Heart Association)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.medicare.gov/campaigns/caregiver/caregiver.html" target="TheNewWin" >Caregiving</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/videocamera.gif' width='20' height='16' title='Video' alt='Video'/> <span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/caregiving-and-sibling-relationships-challenges-and-opportunities" target="TheNewWin" >Caregiving and Sibling Relationships: Challenges and Opportunities</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://kidshealth.org/parent/positive/family/siblings-special-needs.html" target="TheNewWin" >Caring for Siblings of Kids With Special Needs</a> <span class="desc-text">  <span class="orgs"> (Nemours Foundation)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://kidshealth.org/parent/en_espanol/padres/siblings-special-needs-esp.html" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.eldercare.gov/ELDERCARE.NET/Public/Resources/Factsheets/Face_the_Facts.aspx" target="TheNewWin" >Face the Facts</a> <span class="desc-text">  <span class="orgs"> (Administration on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/guidelines-better-communication-brain-impaired-adults" target="TheNewWin" >Guidelines for Better Communication with Brain Impaired Adults</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/hands-skills-caregivers" target="TheNewWin" >Hands-On Skills for Caregivers</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/hot-weather-tips" target="TheNewWin" >Hot Weather Tips</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.alzinfo.org/01/alz-guide/assemble-caregiving-team" target="TheNewWin" >How to Assemble a Caregiving Team</a> <span class="desc-text">  <span class="orgs"> (Fisher Center for Alzheimer's Research Foundation)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://caregiveraction.org/_doc/pdf/DrCaregvr.pdf" target="TheNewWin" >Improving Doctor/Caregiver Communication</a> <span class="desc-text">  <span class="orgs"> (Caregiver Action Network)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.medicare.gov/Publications/Pubs/pdf/11441.pdf" target="TheNewWin" >Information Caregivers Can Use on: Speaking with a Friend or Family Member's Doctor During an Office Visit</a> <span class="desc-text">  <span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.myphr.com/Privacy/caregivers.aspx" target="TheNewWin" >Information for Caregivers</a> <span class="desc-text">  <span class="orgs"> (American Health Information Management Association)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.alz.org/national/documents/brochure_lgbt_caregiver.pdf" target="TheNewWin" >LGBT Caregiver Concerns</a> <span class="desc-text">  <span class="orgs"> (Alzheimer's Association)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/lgbt-caregiving-frequently-asked-questions" target="TheNewWin" >LGBT Caregiving: Frequently Asked Questions</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/health/publication/long-distance-caregiving-family-affair" name="theORG_NIA" target="TheNewWin" >Long-Distance Caregiving -- A Family Affair</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/health/publication/long-distance-caregiving-getting-started" name="theORG_NIA" target="TheNewWin" >Long-Distance Caregiving -- Getting Started</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/making-choices-about-everyday-care-families" target="TheNewWin" >Making Choices about Everyday Care (for Families)</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayproduct&amp;productID=1676" target="TheNewWin" >Managing Care for Adults with Long-Term Medical Illness</a> <span class="desc-text">  <span class="orgs"> (Agency for Healthcare Research and Quality)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://www.effectivehealthcare.ahrq.gov/search-for-guides-reviews-and-reports/?pageaction=displayProduct&amp;productID=1841" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://nihseniorhealth.gov/medicareandcaregivers/illnessandhospitalization/01.html" name="theORG_NIA" target="TheNewWin" >Medicare and Caregivers: Illness and Hospitilization</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nihseniorhealth.gif' width='93' height='10' title='NIHSeniorHealth' alt='NIHSeniorHealth'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://nihseniorhealth.gov/medicareandcaregivers/planningformedicalcare/01.html" name="theORG_NIA" target="TheNewWin" >Medicare and Caregivers: Planning for Medical Care</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nihseniorhealth.gif' width='93' height='10' title='NIHSeniorHealth' alt='NIHSeniorHealth'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq#section/_13" name="theORG_NCI" target="TheNewWin" >Roles for the Family Caregiver</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Cancer Institute)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/health/publication/so-far-away-twenty-questions-and-answers-about-long-distance-caregiving" name="theORG_NIA" target="TheNewWin" >So Far Away: Twenty Questions for Long-Distance Caregivers</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/health/publication/so-far-away-twenty-questions-and-answers-about-long-distance-caregiving/support" name="theORG_NIA" target="TheNewWin" >Support for Long-Distance Caregivers</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.heart.org/idc/groups/heart-public/@wcm/@hcm/documents/downloadable/ucm_300667.pdf" target="TheNewWin" >What Are the Caregiver's Rights?</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/easyreadgreen.gif' width='79' height='11' title='Easy-to-Read' alt='Easy-to-Read'/> <span class="orgs"> (American Heart Association)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.org/treatment/caregivers/copingasacaregiver/howtocareforalovedonewithcancer/being-a-caregiver-reluctance" target="TheNewWin" >What If I Don't Want to Be the Caregiver?</a> <span class="desc-text">  <span class="orgs"> (American Cancer Society)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat42"></a>
+  <section id="cat42_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Specific Conditions</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section42" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://www.mayoclinic.org/caring-for-the-elderly/ART-20048403?p=1" target="TheNewWin" >Caring for the Elderly: Dealing with Resistance</a> <span class="desc-text">  <span class="orgs"> (Mayo Foundation for Medical Education and Research)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.nidcr.nih.gov/OralHealth/Topics/DevelopmentalDisabilities/DentalCareEveryDay.htm" name="theORG_NIDCR" target="TheNewWin" >Dental Care Every Day: A Caregiver's Guide</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute of Dental and Craniofacial Research)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.caringinfo.org/files/public/brochures/UnderstandingtheDyingProces.pdf" target="TheNewWin" >Dying Process--A Guide for Family Caregivers</a> <span class="desc-text">  <span class="orgs"> (National Hospice and Palliative Care Organization)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cdc.gov/family/specialneeds/" target="TheNewWin" >Families with Special Needs: Caregiving Tips</a> <span class="desc-text">  <span class="orgs"> (Centers for Disease Control and Prevention)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.acl.gov/NewsRoom/Publications/docs/HealthyLivingTips_Transport_SurvivalTips.pdf" target="TheNewWin" >Family Caregivers and Transportation: A Few Survival Tips (Healthy Living Tips)</a> <span class="desc-text">  <span class="orgs"> (Administration for Community Living)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.cancer.gov/about-cancer/coping/family-friends/family-caregivers-pdq" name="theORG_NCI" target="TheNewWin" >Family Caregivers in Cancer (PDQ)</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Cancer Institute)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://www.cancer.gov/espanol/cancer/sobrellevar/familia-y-amigos/familiares-a-cargo-pdq" name="theORG_NCI" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.nationalmssociety.org/NationalMSSociety/media/MSNationalFiles/Brochures/Brochure-A-Guide-for-Caregivers.pdf" target="TheNewWin" >Guide for Caregivers</a> <span class="desc-text">  <span class="orgs"> (National Multiple Sclerosis Society)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+             <span class="also-lang"> Available in <a   href="http://www.nationalmssociety.org/NationalMSSociety/media/MSNationalFiles/Brochures/Brochure-Cuidando-de-una-persona-con-esclerosis-multiple.pdf" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/node/22300" target="TheNewWin" >Hospital Discharge Planning: A Guide for Families and Caregivers</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.mda.org/publications/mda-als-caregivers-guide" target="TheNewWin" >MDA ALS Caregiver's Guide</a> <span class="desc-text">  <span class="orgs"> (Muscular Dystrophy Association)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat79"></a>
+  <section id="cat79_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Statistics and Research</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section79" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://caregiveraction.org/resources/caregiver-statistics" target="TheNewWin" >Caregiving Statistics</a> <span class="desc-text">  <span class="orgs"> (Caregiver Action Network)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/selected-caregiver-statistics" target="TheNewWin" >Selected Caregiver Statistics</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat27"></a>
+  <section id="cat27_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Clinical Trials</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section27" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="https://clinicaltrials.gov/search/open/term=caregivers+OR+caregiving" name="theORG_NIH" target="TheNewWin" >ClinicalTrials.gov: Caregivers</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institutes of Health)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat59"></a>
+  <section id="cat59_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+        <h2 class="with-sub-cat">Journal Articles<span class="subheading">References and abstracts from MEDLINE/PubMed (National Library of Medicine)</span></h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section59" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+            <li>
+              
+               
+                <a class="reveal" href="http://www.ncbi.nlm.nih.gov/pubmed/26449118?tool=MedlinePlus" target="TheNewWin">Article: The Littlest Caregivers. Helping Children To Cope With A Parent's...</a>
+              
+            </li>
+           
+            <li>
+              
+               
+                <a class="reveal" href="http://www.ncbi.nlm.nih.gov/pubmed/26427196?tool=MedlinePlus" target="TheNewWin">Article: Celebrations honour caregivers' work.      </a>
+              
+            </li>
+           
+            <li>
+              
+               
+                <a class="reveal" href="http://www.ncbi.nlm.nih.gov/pubmed/26387235?tool=MedlinePlus" target="TheNewWin">Article: 'Health is where the home is'.    </a>
+              
+            </li>
+           
+            <li>
+              
+                <a class="reveal" href="http://www.ncbi.nlm.nih.gov/pubmed?term=caregivers[Majr]+AND+english[la]+AND+humans[mh]+AND+(jsubsetk[text]+OR+patient+education+handout[pt]+OR+jsubsetaim[text]+OR+jsubsetn[text])+NOT+(editorial[pt]+OR+case+reports[pt]+OR+letter[pt])+AND+%22last+1+Year%22[edat]&amp;tool=MedlinePlus" target="TheNewWin">Caregivers -- see more articles</a>
+              
+            </li>
+           
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat83"></a>
+  <section id="cat83_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Find an Expert</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section83" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://www.n4a.org/about-n4a/?fa=aaa-title-VI" target="TheNewWin" >AAAs/ Title VI Agencies (Area Agencies on Aging)</a> <span class="desc-text">  <span class="orgs"> (National Association of Area Agencies on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.aoa.gov/" target="TheNewWin" >Administration on Aging</a> <span class="desc-text"> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://caregiveraction.org/" target="TheNewWin" >Caregiver Action Network</a> <span class="desc-text"> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/family-care-navigator" target="TheNewWin" >Family Care Navigator: State-by-State Help for Family Caregivers</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/" name="theORG_NIA" target="TheNewWin" >National Institute on Aging</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> </span>
+         
+             <span class="also-lang"> Available in <a   href="https://www.nia.nih.gov/espanol" name="theORG_NIA" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat84"></a>
+  <section id="cat84_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Finance and Policy</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section84" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/legal-issues-lgbt-caregivers" target="TheNewWin" >Legal Issues for LGBT Caregivers</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://files.consumerfinance.gov/f/201310_cfpb_lay_fiduciary_guides_agents.pdf" target="TheNewWin" >Managing Someone Else's Money: Help for Agents under a Power of Attorney</a> <span class="desc-text">  <span class="orgs"> (Consumer Financial Protection Bureau)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://nihseniorhealth.gov/medicareandcaregivers/understandingmedicarebilling/01.html" name="theORG_NIA" target="TheNewWin" >Medicare and Caregivers: Understanding Medicare Billing</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nihseniorhealth.gif' width='93' height='10' title='NIHSeniorHealth' alt='NIHSeniorHealth'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.medicare.gov/Publications/Pubs/pdf/11034.pdf" target="TheNewWin" >Medicare Basics: A Guide for Families and Friends of People with Medicare</a> <span class="desc-text">  <span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.aoa.acl.gov/AoA_Programs/HCLTC/Caregiver/index.aspx" target="TheNewWin" >National Family Caregiver Support Program</a> <span class="desc-text">  <span class="orgs"> (Administration on Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nia.nih.gov/alzheimers/publication/caring-person-ad/planning-ahead-health-legal-and-financial-issues" name="theORG_NIA" target="TheNewWin" >Planning Ahead - Health, Legal, and Financial Issues</a> <span class="desc-text"> <img class='imgdesc' src='https://www.nlm.nih.gov/medlineplus/images/nih.png' width='25' height='16' title='From the National Institutes of Health' alt='From the National Institutes of Health'/> <span class="orgs"> (National Institute on Aging)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat8"></a>
+  <section id="cat8_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Children</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section8" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://kidshealth.org/parent/system/ill/seriously_ill.html" target="TheNewWin" >Caring for a Seriously Ill Child</a> <span class="desc-text">  <span class="orgs"> (Nemours Foundation)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://kidshealth.org/parent/en_espanol/medicos/seriously_ill_esp.html" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://kidshealth.org/parent/system/ill/machine.html" target="TheNewWin" >Managing Home Health Care (For Parents)</a> <span class="desc-text">  <span class="orgs"> (Nemours Foundation)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://kidshealth.org/parent/en_espanol/general/machine_esp.html" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://kidshealth.org/parent/system/ill/caregivers.html" target="TheNewWin" >Taking Care of You: Support for Caregivers</a> <span class="desc-text">  <span class="orgs"> (Nemours Foundation)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat24"></a>
+  <section id="cat24_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Teenagers</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section24" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://kidshealth.org/teen/babysitting_center/tips_advice/babysit_medical.html" target="TheNewWin" >Caring for Kids With Medical Conditions</a> <span class="desc-text">  <span class="orgs"> (Nemours Foundation)</span>
+          </span>
+         
+             <span class="also-lang"> Available in <a   href="http://kidshealth.org/teen/en_espanol/seguridad/babysit-medical-esp.html" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat23"></a>
+  <section id="cat23_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Seniors</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section23" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="http://www.ncea.aoa.gov/Resources/Publication/docs/fact_sheet.pdf" target="TheNewWin" >Caregiver Stress and Elder Abuse</a> <span class="desc-text">  <span class="orgs"> (National Center on Elder Abuse)</span>
+           - <span class='desccode'>PDF</span> </span>
+         
+             <span class="also-lang"> Available in <a   href="http://www.ncea.aoa.gov/Resources/Publication/docs/spanishfactbrochure.pdf" target="TheNewWin2" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://caregiver.org/caregivers-guide-medications-and-aging" target="TheNewWin" >Caregivers' Guide to Medications and Aging</a> <span class="desc-text">  <span class="orgs"> (Family Caregiver Alliance)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.healthinaging.org/aging-and-health-a-to-z/topic:other-community-based-care/" target="TheNewWin" >Community-Based Care</a> <span class="desc-text">  <span class="orgs"> (AGS Foundation for Health in Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.healthinaging.org/resources/resource:eldercare-at-home-caregiving/" target="TheNewWin" >Eldercare at Home: Caregiving</a> <span class="desc-text">  <span class="orgs"> (AGS Foundation for Health in Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.healthinaging.org/resources/resource:eldercare-at-home-helping-with-recovery-from-illness/" target="TheNewWin" >Eldercare at Home: Helping with Recovery from Illness</a> <span class="desc-text">  <span class="orgs"> (AGS Foundation for Health in Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.healthinaging.org/resources/resource:eldercare-at-home-problems-of-daily-living/" target="TheNewWin" >Eldercare at Home: Problems of Daily Living</a> <span class="desc-text">  <span class="orgs"> (AGS Foundation for Health in Aging)</span>
+          </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="http://www.healthinaging.org/aging-and-health-a-to-z/topic:home-care/" target="TheNewWin" >Home Care</a> <span class="desc-text">  <span class="orgs"> (AGS Foundation for Health in Aging)</span>
+          </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+  <a name="cat69"></a>
+  <section id="cat69_section">
+   <div class="section">
+    <div class="section-header ">
+     <div class="section-title">
+      
+  
+  <h2>Patient Handouts</h2>
+      
+     </div>
+     <div class="section-button">
+       <button title="Expand/Collapse section" role="button" aria-controls="section3" aria-pressed="true" type="submit">
+       <span class="icon icon-section-action"></span>
+       </button>
+     </div>
+     <!-- Area for accessibility for mobile -->
+     <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+    </div>
+    <div id="section69" class="section-body " >
+     <ul class="bulletlist">
+      
+      
+         
+         <li>
+          <a  class="reveal" href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000427.htm" >Bathing a patient in bed</a> <span class="desc-text"> </span>
+         
+             <span class="also-lang"> Available in <a   href="https://www.nlm.nih.gov/medlineplus/spanish/ency/patientinstructions/000427.htm" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000428.htm" >Moving a patient from bed to a wheelchair</a> <span class="desc-text"> </span>
+         
+             <span class="also-lang"> Available in <a   href="https://www.nlm.nih.gov/medlineplus/spanish/ency/patientinstructions/000428.htm" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000429.htm" >Pulling a patient up in bed</a> <span class="desc-text"> </span>
+         
+             <span class="also-lang"> Available in <a   href="https://www.nlm.nih.gov/medlineplus/spanish/ency/patientinstructions/000429.htm" >Spanish</a> </span>
+         
+         </li>
+        
+         
+         <li>
+          <a  class="reveal" href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000426.htm" >Turning patients over in bed</a> <span class="desc-text"> </span>
+         
+             <span class="also-lang"> Available in <a   href="https://www.nlm.nih.gov/medlineplus/spanish/ency/patientinstructions/000426.htm" >Spanish</a> </span>
+         
+         </li>
+        
+     </ul>
+    </div>
+   </div>
+  </section>
+  
+</div>
+<div class="side">
+   <aside>
+        
+  <!-- Topic Image Section  -->
+  <section id="ht-img-section">
+     <div class="side-section">
+        <div class="section-header hide-offscreen">
+             <h2>Topic Image</h2>
+        </div>
+        <div class="section-body no-header">
+            <img src="https://www.nlm.nih.gov/medlineplus/images/family4.jpg" title="Photograph of a senior couple, a woman and a young girl sitting together" alt="Photograph of a senior couple, a woman and a young girl sitting together" />
+        </div>
+     </div>
+  </section>
+  
+  <!-- MedlinePlus Email Update Section -->
+  <section id="gov-delivery-section">
+     <div class="side-section">
+        <div class="section-header hide-offscreen">
+     <h2>MedlinePlus Email Updates</h2>
+        </div>
+        <div class="section-body no-header">
+          <form title="Enter email address" method="post" action="https://public.govdelivery.com/accounts/USNLMMP/subscribers/qualify" name="GovDeliver" class="gov-delivery">
+           <input type="hidden" name="topic_id" value="USNLMMP_473" />
+           <input type="hidden" name="origin" value="https://www.nlm.nih.gov/medlineplus/caregivers.html" />
+           <div class="form-box text-combo">
+               <label for="GovDelivery_email" class="blue-label">Get Caregivers updates by email</label>
+               <a class="icon icon-info" title="What's this?" href="https://www.nlm.nih.gov/medlineplus/listserv.html"><span class="hide-offscreen">What's this?</span></a>
+               <div class="form-area">
+                   <input type="text" name="email" role="textbox" maxlength="350" title="Enter email address" alt="Enter email address" placeholder="Enter email address" class="form-text" id="GovDelivery_email">
+               </div>
+               <div class="button-area">
+                   <button type="submit" value="Submit" name="commit" title="GO" alt="GO" class="form-btn">GO</button>
+               </div>
+           </div>
+          </form>
+        </div>
+      </div>
+   </section>
+
+      <!-- Encyclopedia Contents -->
+       <section id="encyclopedia-box">
+         <div class="side-section">
+           <div class="section-header red">
+             <h2>MEDICAL ENCYCLOPEDIA&nbsp;&nbsp;</h2>
+           </div>
+           <div id="more_encyclopedia" class="section-body">
+       <ul>
+<li><a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000427.htm">Bathing a patient in bed</a></li>
+<li><a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000428.htm">Moving a patient from bed to a wheelchair</a></li>
+<li><a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000429.htm">Pulling a patient up in bed</a></li>
+<li><a href="https://www.nlm.nih.gov/medlineplus/ency/patientinstructions/000426.htm">Turning patients over in bed</a></li></ul> 
+     </div>
+         </div>
+       </section>
+      
+         <section id="related-topics">
+           <div class="side-section">
+       <div class="section-header">
+                <h2>Related Health Topics</h2>
+             </div>
+       <div class="section-body">
+               <ul id="related">
+               
+                  <li><a  href="https://www.nlm.nih.gov/medlineplus/alzheimerscaregivers.html">Alzheimer's Caregivers</a></li>
+               
+                  <li><a  href="https://www.nlm.nih.gov/medlineplus/childcare.html">Child Care</a></li>
+               
+                  <li><a  href="https://www.nlm.nih.gov/medlineplus/homecareservices.html">Home Care Services</a></li>
+               
+               
+               </ul>
+             </div>
+           </div>
+         </section>
+         
+    <!-- Primary Institute Section -->
+    <section  id="primary-institute-section">
+      <div class="side-section">
+        <div class="section-header">
+          <h2>National Institutes of Health</h2>
+        </div>
+        <div class="section-body">
+          The primary NIH organization for research on <span class="italic">Caregivers</span> is the <a href="http://www.nia.nih.gov/" target="TheNewWin">National Institute on Aging</a>
+        </div>
+      </div>
+    </section>
+    
+       <!-- Magazine Content -->
+       <section id="magazine-box">
+         <div class="side-section">
+           <div class="section-header">
+             <h2>NIH MedlinePlus Magazine&nbsp;&nbsp;</h2>
+           </div>
+           <div id="more_magazine" class="section-body">
+        <ul>
+<li><a  href="https://www.nlm.nih.gov/medlineplus/magazine/issues/summer09/articles/summer09pg3.html">Caregiving and Decision-Making for Seniors: How You Can Help</a></li>
+<li><a  href="https://www.nlm.nih.gov/medlineplus/magazine/issues/summer09/articles/summer09pg7.html">Long Distance Caregiving</a></li></ul> 
+           </div>
+         </div>
+       </section>
+  
+       <section>
+         <div class="side-section">
+            <div class="section-header hide-offscreen">
+               <h2>Disclaimers</h2>
+            </div>
+            <div class="section-body no-header">
+    MedlinePlus links to health information from the National Institutes of Health and other federal government agencies. MedlinePlus also links to health information from non-government Web sites. See our <a href='https://www.nlm.nih.gov/medlineplus/disclaimers.html'>disclaimer</a> about external links and our <a href='https://www.nlm.nih.gov/medlineplus/criteria.html'>quality guidelines</a>.
+            </div>
+         </div>
+       </section>
+
+   </aside>
+</div>
+<div class="page-action-bottom">
+    
+    <div class="page-actions">
+      
+
+
+
+     
+       
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+                
+
+
+
+
+
+		
+
+		<div class="addthis_toolbox">
+		
+		
+			
+			
+			
+				<span>
+					<a target="EmailWin" class="email_icon" title="Email this page to a friend" href="mailto:?subject=Caregivers%3A%20MedlinePlus&amp;body=I%20found%20this%20information%20on%20MedlinePlus%2Egov%20and%20I%27d%20like%20to%20share%20it%20with%20you%3A%0A%0Ahttps%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fcaregivers%2Ehtml%0A%0AMedlinePlus%20%28https%3A%2F%2Fmedlineplus%2Egov%29%3A%20Trusted%20Health%20Information%20for%20you%20%0A%0ATo%20get%20updates%20by%20email%20when%20new%20information%20becomes%20available%20on%20MedlinePlus%2C%20sign%20up%20at%20https%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Flistserv%2Ehtml%2E%0A%0A">
+						<img alt="Email this page to a friend" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_email.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span>
+					<a class="mplus_print" title="Print" href="#">
+						<img alt="Print" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_print.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_facebook" title="Facebook">
+						<img class="share-icon" alt="Facebook" src="https://www.nlm.nih.gov/medlineplus/images/i_share_fb.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_twitter" title="Twitter">
+						<img class="share-icon" alt="Twitter" src="https://www.nlm.nih.gov/medlineplus/images/i_share_twitter.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+
+			
+
+			
+				<span>
+					<a title="Bookmark &amp; Share" href="https://www.addthis.com/bookmark.php?pub=medlineplus&amp;lng=en&amp;title=Caregivers%3A%20MedlinePlus" target="_blank">
+						<img alt="Bookmark &amp; Share" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_addthis.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+                                <span>
+                                        <a class="rss_feed_icon" title="Subscribe to RSS" href="https://www.nlm.nih.gov/medlineplus/feeds/topics/caregivers.xml">
+                                                <img class="share-icon" alt="Subscribe to RSS" src="https://www.nlm.nih.gov/medlineplus/images/i_share_rss.png"/>
+                                        </a>
+                                </span>
+			
+		
+		</div>
+
+
+    </div>
+   
+    <noscript>
+      <span class="js-disabled-message">To use the sharing features on this page, please enable JavaScript.</span>
+    </noscript>
+  
+</div>
+</article>
+</div>
+
+    </div>
+    <!-- Footer
+    ================================================== -->
+    <footer>
+      <div id="mplus-footer">
+        <div class="footer1">
+          <ul class="secondarynav">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html">Site Map</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html">FAQs</a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/caregivers.html">Contact Us</a></li>
+          </ul>
+          <ul>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/listserv.html"><span class="icon icon-email-update"></span>Get email updates</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/rss.html"><span class="icon icon-rss"></span>Subscribe to RSS</a></li>
+            <li><a href="http://twitter.com/medlineplus" target="_blank"><span class="icon icon-twitter"></span>Follow us on Twitter</a></li>
+          </ul>
+    </div>
+    <div class="footer2">
+      <ul>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/disclaimers.html">Disclaimers</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/copyright.html" >Copyright</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/privacy.html">Privacy</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/accessibility.html">Accessibility</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/criteria.html">Quality Guidelines</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/plugins.html">Viewers &amp; Players</a></li>
+        
+          <li><a href="https://www.nlm.nih.gov/medlineplus/connect/overview.html">MedlinePlus Connect for EHRs</a></li>
+          <li><a href="https://www.nlm.nih.gov/medlineplus/fordevelopers.html">For Developers</a></li>
+        
+      </ul>
+      
+      <div class="address">
+        <a href="https://www.nlm.nih.gov" target="_blank">U.S. National Library of Medicine</a>
+        <span>8600 Rockville Pike, Bethesda, MD 20894</span>
+        <a href="http://www.hhs.gov" target="_blank">U.S. Department of Health and Human Services</a>
+        <a href="http://www.nih.gov" target="_blank">National Institutes of Health</a>
+        
+      </div>
+
+        
+          <div class="date">
+            
+              <span id="lastupdate">Page last updated on 9 October 2015 </span>
+              
+                <span id="lastreview">Topic last reviewed: 25 March 2015</span>
+              
+          </div>
+        
+      <div class="return-top"><a href="#top" title="Return to top"><img class="return-top-icon" alt="Return to top" src="https://www.nlm.nih.gov/medlineplus/images/return-top.png"></a></div>
+    </div>
+  </div>
+  </footer>
+  </div><!-- End Wrap -->
+  <!-- Scripts
+  ================================================== -->
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <!--[if lte IE 9]>
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery.placeholder.js" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/mplus-frontend-controls.js" type="text/javascript"></script>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 8/27/2012 5:18:28 PM -->
+<script src="//www.nlm.nih.gov/medlineplus/jslib/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+_tag.dcsCustom=function(){
+_tag.DCSext.dcsid=_tag.dcsid;
+}
+
+
+_tag.trackAllEvents=true;
+
+
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//wtsdc.nlm.nih.gov/dcsholgz500000kf5i8zqwqax_4f6n/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.nlm.nih.gov&amp;dcsid=dcsholgz500000kf5i8zqwqax_4f6n"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+
+
+
+<script src="//www.nlm.nih.gov/medlineplus/jslib/control.js" type="text/javascript"></script>
+
+</body>
+</html>

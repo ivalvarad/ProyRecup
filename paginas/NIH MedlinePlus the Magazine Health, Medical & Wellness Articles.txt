@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <link rel="shortcut icon" href="https://www.nlm.nih.gov/medlineplus/images/favicon.ico"
+      type="image/x-icon" />
+    <link rel="canonical" href="https://www.nlm.nih.gov/medlineplus/magazine/" />
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta name="description"
+      content="Welcome to the Web site for NIH MedlinePlus the magazine. Our purpose is to present you with the best in reliable, up-to-date health information. We bring you the latest breakthroughs from NIH-supported research. We feature people from all walks of life talking about how they've handled their health challenges." />
+    <title>NIH MedlinePlus the Magazine: Health, Medical &amp; Wellness Articles</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="" rel="stylesheet" type="text/css" media="screen" />
+    <link href="css/style_print.css" rel="stylesheet" type="text/css" media="print" />
+    <!--[if IE]><link href="css/ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+  </head>
+  <body>
+    <div class="skipnavigation">
+      <a class="skipnavigation" href="#skipnav"
+        title="This link allows people with disabilities to skip to the main part of the page.">Skip
+        Navigation Bar</a>
+    </div>
+    <div id="wrapper">
+      <div id="container">
+        <div class="title_top">
+          <h1>
+            <a href="index.html">NIH MedlinePlus the Magazine</a>
+          </h1>
+          <h2>
+            <a href="https://www.nlm.nih.gov/medlineplus/spanish/magazine/">NIH MedlinePlus Salud</a>
+          </h2>
+          <div class="clearer"></div>
+        </div>
+        <div class="header"
+          title="NIH MedlinePlus the Magazine, Trusted Health Information from the National Institutes of Health">
+          <a href="index.html">
+            <img src="img/header2-new.jpg"
+              alt="NIH MedlinePlus the Magazine, Trusted Health Information from the National Institutes of Health"
+              border="0" />
+          </a>
+        </div>
+        <div class="navigation">
+          <a href="index.html" id="active" title="Home">Home</a>
+          <a href="issues/currentissue.html" title="Current Issue">Current Issue</a>
+          <a href="issues/pastissues.html" title="Past Issues">Past Issues </a>
+          <div class="clearer"></div>
+        </div>
+        <div class="main">
+          <a name="skipnav" id="skipnav"></a>
+          <div class="clearer"></div>
+          <div class="content">
+            <!--No Script Tag-->
+            <noscript> For an enhanced version of this page please turn JavaScript on. </noscript>
+            <div class="homeleft">
+              <a href="issues/currentissue.html">
+                <img src="issues/fall15/images/fall15_cover.jpg"
+                  alt="NIH MedlinePlus the Magazine Fall 2015 Issue" width="300" height="400" />
+              </a>
+              <div class="clearer"></div>
+              <h2 class="homeleft-issue">
+                <a href="issues/currentissue.html" title="Read the Fall 2015 Issue" target="_self"
+                  >Read the Fall 2015 Issue</a>
+              </h2>
+            </div>
+            <div class="homeright">
+              <p>Welcome to the Web site for <em>NIH MedlinePlus</em>, the magazine. </p>
+              <p>Our purpose is to present you with the best in reliable, up-to-date health
+                information. We bring you the latest breakthroughs from NIH-supported research. We
+                feature people from all walks of life talking about how they've handled their health
+                challenges. </p>
+              <p>Sometimes it's the famous, like Lance Armstrong, Randy Jackson or Mary Tyler Moore.
+                But mostly, it's regular people who have turned to NIH for care and want to share
+                their stories. Often, too, NIH scientists will write about their efforts to cure
+                disease. Lastly, the magazine's lively graphics, fun quizzes and practical tips have
+                been designed with your daily health in mind. </p>
+              <p>We hope <em>NIH MedlinePlus</em> becomes a favorite source of trusted health
+                information for you, whether you read it in your doctor's office, local health
+                center, clinic, or hospital waiting room. Best of all, we hope that you take out a
+                free subscription.</p>
+              <p><em>NIH MedlinePlus</em> is produced by NIH, the National Library of Medicine, and
+                the Friends of the National Library of Medicine. <a
+                  href="https://www.nlm.nih.gov/medlineplus/magazine/subscribe.html"
+                  title="Subscriptions">Subscriptions</a> are available free of charge. </p>
+              <p>With the best of good health to you and your family,<br />
+              </p>
+              <p>Betsy L. Humphreys<br /> Acting Director<br /> National Library of Medicine <br />
+              </p>
+            </div>
+            <div class="clearer"></div>
+            <h2 class="cotitle">&nbsp;Help Out For Health!</h2>
+            <div class="greenbox">
+              <p>You can be a part of the Friends' mission to help educate the health, corporate,
+                and public communities about NIH's many vital research initiatives.</p>
+              <p>If you or your company can help to support and expand the Library's efforts by
+                providing sponsorship and other charitable donations for NIH MedlinePlus magazine's
+                publication and distribution, many more thousands of Americans will gain valuable,
+                free access to the world's best online medical library, <a
+                  href="https://medlineplus.gov">medlineplus.gov</a>.</p>
+              <p>For more information, please visit <a href="http://www.fnlm.org" target="_blank"
+                  >www.fnlm.org</a>, or call (202) 679-9930 (8:30&ndash;5:00 ET). Or, write to FNLM,
+                4720 Montgomery Lane, Suite 500, Bethesda, MD 20814.</p>
+            </div>
+          </div>
+          <div class="footer">
+            <div class="left"><a href="https://medlineplus.gov/">MedlinePlus</a> | <a
+                href="https://www.nlm.nih.gov/medlineplus/magazine/subscribe.html">Subscribe</a> | <a
+                href="magazineinfo.html">Magazine Information</a> | <a
+                href="http://apps.nlm.nih.gov/medlineplus/contact/index.cfm?from=https://www.nlm.nih.gov/medlineplus/magazine/&amp;lang=EN"
+                > Contact Us</a> | <a href="https://www.nlm.nih.gov/medlineplus/plugins.html"
+                title="Viewers &amp; Players">Viewers &amp; Players </a></div>
+            <div class="right">
+              <a href="http://www.fnlm.org" target="_blank">Friends of the National Library of
+                Medicine (FNLM)</a>
+            </div>
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <!--<script language="javascript" type="text/javascript" src="script/jquery-min.js"></script>
+  <script type="text/javascript" src="script/fancybox/fancybox.js"></script>
+  <script src="script/master.js" type="text/javascript" language="javascript"></script>-->
+    </div>
+    <!-- START OF SmartSource Data Collector TAG -->
+
+    <!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+
+    <!-- Version: 9.4.0 -->
+
+    <!-- Tag Builder Version: 4.1  -->
+
+    <!-- Created: 8/27/2012 5:18:28 PM -->
+
+    <script src="https://www.nlm.nih.gov/medlineplus/jslib/webtrends.js" type="text/javascript"></script>
+
+    <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+
+    <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+
+    <script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+
+    <script type="text/javascript">
+_tag.dcsCustom=function(){
+_tag.DCSext.dcsid=_tag.dcsid;
+}
+_tag.trackAllEvents=false;
+_tag.dcsCollect();
+</script>
+
+    <noscript>
+
+      <div>
+        <img alt="DCSIMG" id="DCSIMG" width="1" height="1"
+          src="//wtsdc.nlm.nih.gov/dcsholgz500000kf5i8zqwqax_4f6n/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.nlm.nih.gov&amp;dcsid=dcsholgz500000kf5i8zqwqax_4f6n"
+         />
+      </div>
+
+    </noscript>
+
+    <!-- END OF SmartSource Data Collector TAG -->
+
+  </body>
+</html>
+

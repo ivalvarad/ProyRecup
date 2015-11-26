@@ -1,0 +1,1156 @@
+<!DOCTYPE html>
+<html lang="en" id="directory" class="nojs us" data-root="//www.nlm.nih.gov/medlineplus">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta http-equiv="window-target" content="_top" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta charset="utf-8">
+
+
+  <meta name="ac-dictionary" content="medlineplus-ac-dictionary" />
+    
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="https://www.nlm.nih.gov/medlineplus/images/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://www.nlm.nih.gov/medlineplus/images/touch-icon.png">
+
+  <!-- FB -->
+  
+  <meta property="og:title" content="Directories: MedlinePlus" />
+  <meta property="og:url" content="https://www.nlm.nih.gov/medlineplus/directories.html" />
+  <meta property="og:image" content="https://www.nlm.nih.gov/medlineplus/images/mplus_fb.jpg" />
+  
+  <link rel="canonical" href="https://www.nlm.nih.gov/medlineplus/directories.html" />
+
+  <!-- RWD Meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/common.css">
+  <!--[if IE 8]> <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/ie8/common.css"> <![endif]-->
+  
+	<link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/directory.css">
+	<!--[if IE 8]> <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/ie8/directory.css"><![endif]-->
+		
+  
+  <script type="text/javascript">document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className.replace( /(?:^|\s)nojs(?!\S)/g , '').trim();</script>
+
+  
+  <title>Directories: MedlinePlus</title>
+
+
+  <script language="javascript" id="_fed_an_ua_tag" src="//www.nlm.nih.gov/core/dap/Universal-Federated-Analytics.js?agency=HHS&subagency=NIH&enhlink=true"></script>
+      
+</head>
+
+<body>
+  
+  <div id="mplus-wrap">
+    <!-- Header
+    ================================================== -->
+    <header>
+      <div id="mplus-header">
+        <a name="top" id="top"></a>
+        <a class="hide-offscreen" href="#start">Skip navigation</a>
+        <!-- Orgs
+        ================================================== -->
+        <div id="mplus-orgs">
+          <a href="http://www.nih.gov/" class="nih-org" target="_blank" title="National Institutes of Health">
+            <img class="nihlogo" src="https://www.nlm.nih.gov/medlineplus/images/nihlogo.png" alt="National Institutes of Health"/>
+          </a><a href="https://www.nlm.nih.gov/" target="_blank">
+            U.S. National Library of Medicine
+          </a>
+        </div>
+        <!-- Logo
+        ================================================== -->
+        <div id="mplus-logo">
+          
+          <a href="https://www.nlm.nih.gov/medlineplus/">
+            
+              <img alt="MedlinePlus Trusted Health Information for You" title="MedlinePlus Trusted Health Information for You" src="https://www.nlm.nih.gov/medlineplus/images/m_logo.png">
+            
+          </a>
+        </div>
+        <!-- Nav Menu
+        ================================================== -->
+        <div id="mplus-nav">
+          <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+          <!-- Menu Button-->
+          <button id="sm-menu-btn" class="navmenu-btn" title="Menu" role="button" aria-controls="mplus-menu-list" type="submit">Menu<span class="icon icon-nav-menu"></span></button><ul id="mplus-menu-list" class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html">Health Topics</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+          </ul><button id="sm-search-btn" class="navmenu-btn" title="Search" role="button" aria-controls="mplus-search" type="submit"><span class="hide-offscreen"></span>Search<span class="icon icon-nav-search"></span></button>
+          <!-- Search
+          ================================================== -->
+          <form id="mplus-search" method="get" action="//vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" title="Search MedlinePlus" target="_self">
+            <input type="hidden" name="v:project" value="medlineplus"/>
+            <input type="hidden" name="v:sources" value="medlineplus-bundle"/>
+            <div class="form-box text-combo">
+              <div class="form-area"><label class="hide-offscreen" for="searchtext_primary">Search MedlinePlus</label>
+              <input id="searchtext_primary" class="form-text" type="text" placeholder="Search MedlinePlus" alt="Site Search input" title="Site Search input" maxlength="400" size="40" name="query" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+            </div>
+            <div class="button-area">
+              <button class="form-btn" title="Search MedlinePlus" alt="Search MedlinePlus" type="submit">GO</button>
+            </div>
+          </div>
+        </form>
+        <!-- Secondary Nav
+        ================================================== -->
+        <div class="secondarynav">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html"><span>About MedlinePlus</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html"><span>Site Map</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html"><span>FAQs</span></a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/directories.html"><span>Contact Us</span></a></li>
+          </ul>
+        </div>
+        <!-- Nav Bar
+        ================================================== -->
+        <div id="mplus-nav-bar">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html">Health Topics</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+          </ul>
+        </div>
+        
+        <!-- Language Toggle -->
+        <a id="mplus-lang-toggle" href="https://www.nlm.nih.gov/medlineplus/spanish/sorrygeneral.html" title="Español">Español</a>
+        
+      </div>
+
+                    
+
+
+
+      </div>
+    </header>
+    <!-- Content
+    ================================================== -->
+    <div id="mplus-content">
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    <!-- Breadrcumbs -->
+    <div id="breadcrumbs">
+      <span class="hide-offscreen">You Are Here:</span>
+      <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="https://www.nlm.nih.gov/medlineplus/" itemprop="url"><span itemprop="title">Home</span></a>
+          &rarr;
+      </div>
+    
+      
+        <div>
+          <span>Directories</span>
+        </div>
+      
+    
+    </div>
+  
+    <span class="page-url print-only">URL of this page: https://www.nlm.nih.gov/medlineplus/directories.html</span>
+  
+    
+    
+
+
+
+
+
+<div id="directory">
+<article>
+<div class="page-info">
+  
+  <div class="page-title">
+	<a name="start" id="start"></a>
+	<h1>Directories</h1>
+  </div>
+
+   <div class="page-actions">
+        
+
+
+
+     
+       
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+                
+
+
+
+
+
+		
+
+		<div class="addthis_toolbox">
+		
+		
+			
+			
+			
+				<span>
+					<a target="EmailWin" class="email_icon" title="Email this page to a friend" href="mailto:?subject=Directories%3A%20MedlinePlus&amp;body=I%20found%20this%20information%20on%20MedlinePlus%2Egov%20and%20I%27d%20like%20to%20share%20it%20with%20you%3A%0A%0Ahttps%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fdirectories%2Ehtml%0A%0AMedlinePlus%20%28https%3A%2F%2Fmedlineplus%2Egov%29%3A%20Trusted%20Health%20Information%20for%20you%20%0A%0ATo%20get%20updates%20by%20email%20when%20new%20information%20becomes%20available%20on%20MedlinePlus%2C%20sign%20up%20at%20https%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Flistserv%2Ehtml%2E%0A%0A">
+						<img alt="Email this page to a friend" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_email.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_facebook" title="Facebook">
+						<img class="share-icon" alt="Facebook" src="https://www.nlm.nih.gov/medlineplus/images/i_share_fb.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+				<span class="addthis-box">
+					<a class="addthis_button_twitter" title="Twitter">
+						<img class="share-icon" alt="Twitter" src="https://www.nlm.nih.gov/medlineplus/images/i_share_twitter.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+			
+
+			
+
+			
+				<span>
+					<a title="Bookmark &amp; Share" href="https://www.addthis.com/bookmark.php?pub=medlineplus&amp;lng=en&amp;title=Directories%3A%20MedlinePlus" target="_blank">
+						<img alt="Bookmark &amp; Share" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_addthis.png"/>
+					</a>
+				</span>
+			
+		
+		
+		
+		</div>
+
+
+   </div>
+  
+  <noscript>
+    <span class="js-disabled-message">To use the sharing features on this page, please enable JavaScript.</span>
+  </noscript>
+
+</div>
+
+<p>MedlinePlus provides links to directories to help you find libraries, health professionals, services and facilities.  NLM does not endorse or recommend the organizations that produce these directories, nor the individuals or organizations that are included in the directories.</p>
+<section>
+   <h2>Libraries</h2>
+     <ul>
+        <li>
+	   
+	      <a href="https://www.nlm.nih.gov/medlineplus/libraries.html">Find a Library</a>
+	   
+	</li>
+     </ul>
+</section>
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Doctors and Dentists--General</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_1"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_1" class="section-body">
+            <ul>
+            
+            <li><a href="https://apps.ama-assn.org/doctorfinder/recaptcha.jsp" target="TheNewWin">AMA Physician Select: Online Doctor Finder</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Medical Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.docinfo.org/#/search/query" target="TheNewWin">DocInfo</a>
+		<span class="desc-text">
+			<span class="orgs"> (Federation of State Medical Boards of the United States)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.knowyourteeth.com/findadentist/" target="TheNewWin">Find a Dentist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Academy of General Dentistry)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.medicare.gov/physiciancompare/search.html" target="TheNewWin">Medicare: Physician Compare</a>
+		<span class="desc-text">
+			<span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Hospitals and Clinics--General</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_2"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_2" class="section-body">
+            <ul>
+            
+            <li><a href="http://www.leapfroggroup.org/cp" target="TheNewWin">Compare Hospitals</a>
+		<span class="desc-text">
+			<span class="orgs"> (Leapfrog Group)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.tricare.mil/FindDoctor.aspx" target="TheNewWin">Find a Doctor</a>
+		<span class="desc-text">
+			<span class="orgs"> (TRICARE Management Activity)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://findahealthcenter.hrsa.gov/" target="TheNewWin">HRSA: Find a Health Center</a>
+		<span class="desc-text">
+			<span class="orgs"> (Health Resources and Services Administration)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Doctors and Dentists--Specialists</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_3"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_3" class="section-body">
+            <ul>
+            
+            <li><a href="http://www.osteopathic.org/osteopathic-health/Pages/find-a-do-search.aspx" target="TheNewWin">American Osteopathic Association D.O. Database</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Osteopathic Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.asge.org/Apps/Membership/find-doctor1.aspx" target="TheNewWin">ASGE: Find a Doctor</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Society for Gastrointestinal Endoscopy)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.cancer.gov/about-cancer/causes-prevention/genetics/directory" target="TheNewWin">Cancer Genetics Services Directory</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Cancer Institute)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.info4pi.org/information-booth/find-an-expert" target="TheNewWin">Expert Locator: Immunologists</a>
+		<span class="desc-text">
+			<span class="orgs"> (Jeffrey Modell Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.cancer.net/find-cancer-doctor" target="TheNewWin">Find a Cancer Doctor</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Society of Clinical Oncology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.asds.net/Find/" target="TheNewWin">Find a Dermatologic Surgeon</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Society for Dermatologic Surgery)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.aad.org/find-a-derm" target="TheNewWin">Find a Dermatologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Dermatology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.dystonia-foundation.org/living-with-dystonia/find-a-doctor" target="TheNewWin">Find a Doctor</a>
+		<span class="desc-text">
+			<span class="orgs"> (Dystonia Medical Research Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://patients.gi.org/find-a-gastroenterologist/" target="TheNewWin">Find a Gastroenterologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Gastroenterology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.assh.org/handcare/Find-a-Hand-Surgeon" target="TheNewWin">Find a Hand Surgeon</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Society for Surgery of the Hand)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.hrsonline.org/Find-a-Specialist" target="TheNewWin">Find a Heart Rhythm Specialist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Heart Rhythm Society)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.hematology.org/Patients/FAH.aspx" target="TheNewWin">Find a Hematologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Society of Hematology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://patients.aan.com/findaneurologist/" target="TheNewWin">Find a Neurologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Neurology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.aapd.org/finddentist/search/" target="TheNewWin">Find a Pediatric Dentist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Pediatric Dentistry)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.healthychildren.org/english/tips-tools/find-pediatrician/pages/pediatrician-referral-service.aspx" target="TheNewWin">Find a Pediatrician or Pediatric Specialist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Pediatrics)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.perio.org/?q=locator-advanced" target="TheNewWin">Find a Periodontist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Periodontology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.aapmr.org/patients/findphysician/Pages/default.aspx" target="TheNewWin">Find a Physical Medicine &amp; Rehabilitation Physician</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Physical Medicine and Rehabilitation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.apma.org/Directory/FindAPodiatrist.cfm?&amp;navItemNumber=496" target="TheNewWin">Find a Podiatrist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Podiatric Medical Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://ww2.rheumatology.org/directory/geo.asp" target="TheNewWin">Find a Rheumatologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Rheumatology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://myoms.org/#home_anchor6" target="TheNewWin">Find a Surgeon</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Association of Oral and Maxillofacial Surgeons)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.urologyhealth.org/find-a-urologist" target="TheNewWin">Find a Urologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Urology Care Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.foothealthfacts.org/Find.aspx" target="TheNewWin">Find an ACFAS Physician</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Foot and Ankle Surgeons)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://allergist.aaaai.org/find/" target="TheNewWin">Find an Allergist/Immunologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Allergy, Asthma, and Immunology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.hormone.org/contact-a-health-professional/find-an-endocrinologist" target="TheNewWin">Find an Endocrinologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Hormone Health Network)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.thyroid.org/patient-thyroid-information/endocrinology-thyroid-doctor/" target="TheNewWin">Find an Endocrinology - Thyroid Specialist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Thyroid Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.entnet.org/content/find-ent" target="TheNewWin">Find an ENT</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Otolaryngology--Head and Neck Surgery)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.geteyesmart.org/eyesmart/find/" target="TheNewWin">Find an Eye M.D.</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Ophthalmology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://members.sirweb.org/" target="TheNewWin">Find an Interventional Radiologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Society of Interventional Radiology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.acog.org/About_ACOG/Find_an_Ob_Gyn" target="TheNewWin">Find an Ob-Gyn</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Obstetricians and Gynecologists)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://mmax.aofas.org/scripts/4disapi.dll/4DCGI/directory/person.html?Action=AOFAS&amp;AOFAS_Activity=Directory" target="TheNewWin">Find an Orthopaedic Foot and Ankle MD/DO</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Orthopaedic Foot and Ankle Society)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://nei.nih.gov/health/findprofessional" target="TheNewWin">Finding an Eye Care Professional</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Eye Institute)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://secure.gastro.org/GILocator/locator.asp" target="TheNewWin">GI Locator Service</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Gastroenterological Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.facs.org/search/find-a-surgeon" target="TheNewWin">Searching for Surgeons</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Surgeons)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Other Healthcare Providers</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_4"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_4" class="section-body">
+            <ul>
+            
+            <li><a href="http://www.cancer.gov/about-cancer/causes-prevention/genetics/directory" target="TheNewWin">Cancer Genetics Services Directory</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Cancer Institute)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://nf01.diabeteseducator.org/eweb/DynamicPage.aspx?Site=AADE&amp;WebCode=AADEDiaEduDirectory" target="TheNewWin">Find a Diabetes Educator</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Association of Diabetes Educators)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.amtamassage.org/findamassage/index.html" target="TheNewWin">Find a Massage Therapist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Massage Therapy Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.ourmomentoftruth.com/Find-A-Midwife" target="TheNewWin">Find a Midwife</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Nurse-Midwives)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://mx.nccaom.org/FindAPractitioner.aspx" target="TheNewWin">Find a NCCAOM Certified Practitioner</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Certification Commission for Acupuncture and Oriental Medicine)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.npfinder.com/" target="TheNewWin">Find a Nurse Practitioner</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Nurse Practitioners)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.apta.org/apta/findapt/index.aspx" target="TheNewWin">Find a Physical Therapist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Physical Therapy Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.nationalregister.com/Find/AdvancedSearch.aspx" target="TheNewWin">Find a Psychologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Register of Health Service Providers in Psychology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.eatright.org/find-an-expert" target="TheNewWin">Find a Registered Dietitian Nutritionist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Academy of Nutrition and Dietetics)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.adaa.org/netforum/findatherapist" target="TheNewWin">Find a Therapist</a>
+		<span class="desc-text">
+			<span class="orgs"> (Anxiety and Depression Association of America)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://webportal.audiology.org/Custom/FindAnAudiologist.aspx" target="TheNewWin">Find an Audiologist</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Audiology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://ec.princeton.edu/providers/index.html" target="TheNewWin">Search for an Emergency Contraception Provider in the United States</a>
+		<span class="desc-text">
+			<span class="orgs"> (Princeton University, Office of Population Research)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Hospitals and Clinics--Specialized</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_5"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_5" class="section-body">
+            <ul>
+            
+            <li><a href="http://www.birthcenteraccreditation.org/find-accredited-birth-centers/" target="TheNewWin">Accredited Birth Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (Commission for the Accreditation of Birth Centers)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.mda.org/asset/als-research-and-clinical-centers" target="TheNewWin">ALS Research and Clinical Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (Muscular Dystrophy Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.nia.nih.gov/alzheimers/alzheimers-disease-research-centers" target="TheNewWin">Alzheimer's Disease Research Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Institute on Aging)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.cff.org/Find-a-Local-Chapter/" target="TheNewWin">Cystic Fibrosis Foundation: Find a Chapter</a>
+		<span class="desc-text">
+			<span class="orgs"> (Cystic Fibrosis Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.fda.gov/Radiation-EmittingProducts/MammographyQualityStandardsActandProgram/ConsumerInformation/ucm113962.htm" target="TheNewWin">FDA Certified Mammography Facilities</a>
+		<span class="desc-text">
+			<span class="orgs"> (Food and Drug Administration)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.cff.org/Locations/FindACareCenter/" target="TheNewWin">Find a Cystic Fibrosis Care Center</a>
+		<span class="desc-text">
+			<span class="orgs"> (Cystic Fibrosis Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.medicare.gov/dialysisfacilitycompare/" target="TheNewWin">Find a Dialysis Facility</a>
+		<span class="desc-text">
+			<span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://nafcclinics.org/clinics/search" target="TheNewWin">Find a Free Clinic</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Association of Free and Charitable Clinics)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.sleepeducation.com/find-a-facility" target="TheNewWin">Find a Sleep Center Near You</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Academy of Sleep Medicine)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.cancer.org/treatment/findingandpayingfortreatment/findingtreatmentcenters/index" target="TheNewWin">Finding Treatment Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Cancer Society)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.ihs.gov/forpatients/findhealthcare/" target="TheNewWin">Indian Health Service: Find Health Care</a>
+		<span class="desc-text">
+			<span class="orgs"> (Indian Health Service)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://findtreatment.samhsa.gov/MHTreatmentLocator/faces/quickSearch.jspx" target="TheNewWin">Mental Health Treatment Program Locator</a>
+		<span class="desc-text">
+			<span class="orgs"> (Substance Abuse and Mental Health Services Administration)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.cancer.gov/research/nci-role/cancer-centers" target="TheNewWin">NCI Designated Cancer Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Cancer Institute)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.ctf.org/Patient-Information/Find-a-Doctor.html" target="TheNewWin">Neurofibromatosis Specialists</a>
+		<span class="desc-text">
+			<span class="orgs"> (Children's Tumor Foundation)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.post-polio.org/net/PDIR.pdf" target="TheNewWin">Post-Polio Directory 2014: Post-Polio Clinics, Health Professionals, Support Groups</a>
+		<span class="desc-text">
+			<span class="orgs"> (Post-Polio Health International including International Ventilator Users Network)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://scinfo.org/sickle-cell-clinics-contacts-and-resources" target="TheNewWin">Sickle Cell Clinics, Contacts, and Resources</a>
+		<span class="desc-text">
+			<span class="orgs"> (Georgia Comprehensive Sickle Cell Center at Grady Health System)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://spinabifidaassociation.org/clinics/" target="TheNewWin">Spina Bifida Clinic Directory</a>
+		<span class="desc-text">
+			<span class="orgs"> (Spina Bifida Association of America)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://findtreatment.samhsa.gov/TreatmentLocator/faces/quickSearch.jspx" target="TheNewWin">Substance Abuse Treatment Facility Locator</a>
+		<span class="desc-text">
+			<span class="orgs"> (Substance Abuse and Mental Health Services Administration)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://bethematch.org/For-Patients-and-Families/Getting-a-transplant/Choosing-a-transplant-center/U-S--transplant-centers/" target="TheNewWin">Transplant Center Directory</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Marrow Donor Program)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.bmtinfonet.org/transplantcenters" target="TheNewWin">Transplant Center Search Form</a>
+		<span class="desc-text">
+			<span class="orgs"> (BMT InfoNet)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.va.gov/directory/guide/home.asp" target="TheNewWin">VA Health Care Facilities Locator</a>
+		<span class="desc-text">
+			<span class="orgs"> (Veterans Health Administration)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.aabb.org/tm/donation/Pages/Blood-Bank-Locator.aspx" target="TheNewWin">Where to Donate Blood</a>
+		<span class="desc-text">
+			<span class="orgs"> (AABB)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://bethematch.org/Support-the-Cause/Donate-cord-blood/How-to-donate-cord-blood/Participating-hospitals/" target="TheNewWin">Where to Donate Cord Blood--Participating Hospitals</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Marrow Donor Program)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+<section>
+     <div class="section">
+         <div class="section-header">
+            <div class="section-title">
+    	      <h2>Other Healthcare Facilities and Services</h2>
+            </div>
+            <div class="section-button">
+                   <button
+                   type="submit"
+                   aria-controls="section_6"
+                   role="button"
+                   title="Expand/Collapse section"
+                   aria-pressed="false" tabindex="0">
+                        <span class="icon icon-section-action"></span>
+                   </button>
+            </div>
+            <!-- Area for accessibility for mobile -->
+            <div class="sm-live-area hide-offscreen" aria-live="polite" ></div>
+         </div>
+         <div id="section_6" class="section-body">
+            <ul>
+            
+            <li><a href="http://www.acr.org/Quality-Safety/Accreditation/Accredited-Facility-Search" target="TheNewWin">American College of Radiology Accredited Facility Search</a>
+		<span class="desc-text">
+			<span class="orgs"> (American College of Radiology)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.psychiatry.org/about-apa/meet-our-organization/district-branches" target="TheNewWin">APA District Branch / State Association Directory</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Psychiatric Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.nidcd.nih.gov/directory/" target="TheNewWin">Directory of Organizations (Deafness and Communication Disorders)</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Institute on Deafness and Other Communication Disorders)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.afb.org/section.asp?Documentid=1266" target="TheNewWin">Dog Guide Training: AFB Directory of Services Listings</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Foundation for the Blind)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.eldercare.gov/Eldercare.NET/Public/Index.aspx" target="TheNewWin">Eldercare Locator</a>
+		<span class="desc-text">
+			<span class="orgs"> (Department of Health and Human Services)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://netforum.nhpco.org/eWeb/DynamicPage.aspx?Site=NHPCO&amp;WebKey=a9338cdd-546a-42f5-9061-6b91dbdb31da" target="TheNewWin">Find a Hospice or Palliative Care Provider</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Hospice and Palliative Care Organization)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.medicare.gov/nursinghomecompare/search.html" target="TheNewWin">Find a Nursing Home</a>
+		<span class="desc-text">
+			<span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.asthmacamps.org/findacamp.cfm" target="TheNewWin">Find an Asthma Camp</a>
+		<span class="desc-text">
+			<span class="orgs"> (Consortium on Children's Asthma Camps)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.afb.org/services.asp" target="TheNewWin">Find Services for People Who Are Blind or Visually Impaired</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Foundation for the Blind)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.collegedrinkingprevention.gov/links/help.aspx" target="TheNewWin">Getting Help</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Institute on Alcohol Abuse and Alcoholism)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.medicare.gov/homehealthcompare/search.html" target="TheNewWin">Home Health Compare: Find a Home Health Agency</a>
+		<span class="desc-text">
+			<span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.medicare.gov/Contacts/" target="TheNewWin">Medicare: Helpful Contacts</a>
+		<span class="desc-text">
+			<span class="orgs"> (Centers for Medicare &amp; Medicaid Services)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.mda.org/locate" target="TheNewWin">Muscular Dystrophy Association Programs and Services</a>
+		<span class="desc-text">
+			<span class="orgs"> (Muscular Dystrophy Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="https://www.childwelfare.gov/nfcad/index.cfm" target="TheNewWin">National Foster Care and Adoption Directory Search</a>
+		<span class="desc-text">
+			<span class="orgs"> (Children's Bureau)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.naric.com/" target="TheNewWin">National Rehabilitation Information Center</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Institute on Disability and Rehabilitation Research)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://supportorgs.cancer.gov/home.aspx" target="TheNewWin">Organizations That Offer Support Services</a>
+		<span class="desc-text">
+			<span class="orgs"> (National Cancer Institute)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.aapcc.org/centers/" target="TheNewWin">Poison Control Centers</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Association of Poison Control Centers)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.afb.org/section.asp?SectionID=6&amp;TopicID=97&amp;DocumentID=1252" target="TheNewWin">Resources and Information for Parents about Braille</a>
+		<span class="desc-text">
+			<span class="orgs"> (American Foundation for the Blind)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://www.tsa-usa.org/aChapters/TouretteAssocChapters.htm" target="TheNewWin">TSA Chapters in the USA</a>
+		<span class="desc-text">
+			<span class="orgs"> (Tourette Syndrome Association)</span>
+		</span>
+	    </li>
+   	    
+            <li><a href="http://womenshealth.gov/violence-against-women/get-help-for-violence/resources-by-state-violence-against-women.html" target="TheNewWin">Violence against Women: Resources by State</a>
+		<span class="desc-text">
+			<span class="orgs"> (Department of Health and Human Services, Office on Women's Health)</span>
+		</span>
+	    </li>
+   	    
+            </ul>
+         </div>
+         
+     </div>
+</section>  
+
+
+</article>
+</div>
+
+
+    </div>
+    <!-- Footer
+    ================================================== -->
+    <footer>
+      <div id="mplus-footer">
+        <div class="footer1">
+          <ul class="secondarynav">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html">Site Map</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html">FAQs</a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/directories.html">Contact Us</a></li>
+          </ul>
+          <ul>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/listserv.html"><span class="icon icon-email-update"></span>Get email updates</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/rss.html"><span class="icon icon-rss"></span>Subscribe to RSS</a></li>
+            <li><a href="http://twitter.com/medlineplus" target="_blank"><span class="icon icon-twitter"></span>Follow us on Twitter</a></li>
+          </ul>
+    </div>
+    <div class="footer2">
+      <ul>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/disclaimers.html">Disclaimers</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/copyright.html" >Copyright</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/privacy.html">Privacy</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/accessibility.html">Accessibility</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/criteria.html">Quality Guidelines</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/plugins.html">Viewers &amp; Players</a></li>
+        
+          <li><a href="https://www.nlm.nih.gov/medlineplus/connect/overview.html">MedlinePlus Connect for EHRs</a></li>
+          <li><a href="https://www.nlm.nih.gov/medlineplus/fordevelopers.html">For Developers</a></li>
+        
+      </ul>
+      
+      <div class="address">
+        <a href="https://www.nlm.nih.gov" target="_blank">U.S. National Library of Medicine</a>
+        <span>8600 Rockville Pike, Bethesda, MD 20894</span>
+        <a href="http://www.hhs.gov" target="_blank">U.S. Department of Health and Human Services</a>
+        <a href="http://www.nih.gov" target="_blank">National Institutes of Health</a>
+        
+      </div>
+
+        
+          <div class="date">
+            
+              <span id="lastupdate">Page last updated on 20 November 2015 </span>
+              
+          </div>
+        
+      <div class="return-top"><a href="#top" title="Return to top"><img class="return-top-icon" alt="Return to top" src="https://www.nlm.nih.gov/medlineplus/images/return-top.png"></a></div>
+    </div>
+  </div>
+  </footer>
+  </div><!-- End Wrap -->
+  <!-- Scripts
+  ================================================== -->
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <!--[if lte IE 9]>
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery.placeholder.js" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/mplus-frontend-controls.js" type="text/javascript"></script>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 8/27/2012 5:18:28 PM -->
+<script src="//www.nlm.nih.gov/medlineplus/jslib/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+_tag.dcsCustom=function(){
+_tag.DCSext.dcsid=_tag.dcsid;
+}
+
+
+_tag.trackAllEvents=true;
+
+
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//wtsdc.nlm.nih.gov/dcsholgz500000kf5i8zqwqax_4f6n/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.nlm.nih.gov&amp;dcsid=dcsholgz500000kf5i8zqwqax_4f6n"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+
+
+
+<script src="//www.nlm.nih.gov/medlineplus/jslib/control.js" type="text/javascript"></script>
+
+</body>
+</html>

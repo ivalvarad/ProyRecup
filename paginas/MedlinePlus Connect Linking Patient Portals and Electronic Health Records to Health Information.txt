@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en" id="static-share" class="nojs us" data-root="//www.nlm.nih.gov/medlineplus">
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+  <meta http-equiv="window-target" content="_top" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta charset="utf-8">
+
+
+  <meta name="ac-dictionary" content="medlineplus-ac-dictionary" />
+    
+  <meta name="description" content="MedlinePlus Connect is a free service of the National Library of Medicine that links electronic health record (EHR) systems to MedlinePlus health information." />
+    
+  <meta name="keywords" content="electronic health records, electronic medical records, patient health records, EHR, EMR, PHR, patient education information" />
+    
+
+  <!-- Icons -->
+  <link rel="shortcut icon" href="https://www.nlm.nih.gov/medlineplus/images/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://www.nlm.nih.gov/medlineplus/images/touch-icon.png">
+
+  <!-- FB -->
+  
+  <meta property="og:title" content="MedlinePlus Connect: Linking Patient Portals and Electronic Health Records to Health Information" />
+  <meta property="og:url" content="https://www.nlm.nih.gov/medlineplus/connect/overview.html" />
+  <meta property="og:image" content="https://www.nlm.nih.gov/medlineplus/images/mplus_fb.jpg" />
+  
+  <link rel="canonical" href="https://www.nlm.nih.gov/medlineplus/connect/overview.html" />
+
+  <!-- RWD Meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/common.css">
+  <!--[if IE 8]> <link rel="stylesheet" href="//www.nlm.nih.gov/medlineplus/css/ie8/common.css"> <![endif]-->
+  
+  
+  <script type="text/javascript">document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className.replace( /(?:^|\s)nojs(?!\S)/g , '').trim();</script>
+
+  
+  <title>MedlinePlus Connect: Linking Patient Portals and Electronic Health Records to Health Information</title>
+
+
+  <link href="//www.nlm.nih.gov/medlineplus/utilities/lostatic.css" type="text/css" rel="stylesheet" media="all"/>
+  <!--[if IE 8]> <link href="//www.nlm.nih.gov/medlineplus/utilities/ie8lostatic.css" type="text/css" rel="stylesheet" media="all"/>
+<![endif]-->
+
+  <script language="javascript" id="_fed_an_ua_tag" src="//www.nlm.nih.gov/core/dap/Universal-Federated-Analytics.js?agency=HHS&subagency=NIH&enhlink=true"></script>
+      
+</head>
+
+<body>
+  
+  <div id="mplus-wrap">
+    <!-- Header
+    ================================================== -->
+    <header>
+      <div id="mplus-header">
+        <a name="top" id="top"></a>
+        <a class="hide-offscreen" href="#start">Skip navigation</a>
+        <!-- Orgs
+        ================================================== -->
+        <div id="mplus-orgs">
+          <a href="http://www.nih.gov/" class="nih-org" target="_blank" title="National Institutes of Health">
+            <img class="nihlogo" src="https://www.nlm.nih.gov/medlineplus/images/nihlogo.png" alt="National Institutes of Health"/>
+          </a><a href="https://www.nlm.nih.gov/" target="_blank">
+            U.S. National Library of Medicine
+          </a>
+        </div>
+        <!-- Logo
+        ================================================== -->
+        <div id="mplus-logo">
+          
+          <a href="https://www.nlm.nih.gov/medlineplus/">
+            
+              <img alt="MedlinePlus Trusted Health Information for You" title="MedlinePlus Trusted Health Information for You" src="https://www.nlm.nih.gov/medlineplus/images/m_logo.png">
+            
+          </a>
+        </div>
+        <!-- Nav Menu
+        ================================================== -->
+        <div id="mplus-nav">
+          <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+          <!-- Menu Button-->
+          <button id="sm-menu-btn" class="navmenu-btn" title="Menu" role="button" aria-controls="mplus-menu-list" type="submit">Menu<span class="icon icon-nav-menu"></span></button><ul id="mplus-menu-list" class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html">Health Topics</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+          </ul><button id="sm-search-btn" class="navmenu-btn" title="Search" role="button" aria-controls="mplus-search" type="submit"><span class="hide-offscreen"></span>Search<span class="icon icon-nav-search"></span></button>
+          <!-- Search
+          ================================================== -->
+          <form id="mplus-search" method="get" action="//vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" title="Search MedlinePlus" target="_self">
+            <input type="hidden" name="v:project" value="medlineplus"/>
+            <input type="hidden" name="v:sources" value="medlineplus-bundle"/>
+            <div class="form-box text-combo">
+              <div class="form-area"><label class="hide-offscreen" for="searchtext_primary">Search MedlinePlus</label>
+              <input id="searchtext_primary" class="form-text" type="text" placeholder="Search MedlinePlus" alt="Site Search input" title="Site Search input" maxlength="400" size="40" name="query" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+            </div>
+            <div class="button-area">
+              <button class="form-btn" title="Search MedlinePlus" alt="Search MedlinePlus" type="submit">GO</button>
+            </div>
+          </div>
+        </form>
+        <!-- Secondary Nav
+        ================================================== -->
+        <div class="secondarynav">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html"><span>About MedlinePlus</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html"><span>Site Map</span></a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html"><span>FAQs</span></a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/connect/overview.html"><span>Contact Us</span></a></li>
+          </ul>
+        </div>
+        <!-- Nav Bar
+        ================================================== -->
+        <div id="mplus-nav-bar">
+          <ul class="nav-list">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/healthtopics.html">Health Topics</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/druginformation.html">Drugs &amp; Supplements</a></li><li><a href="https://www.nlm.nih.gov/medlineplus/videosandcooltools.html">Videos &amp; Tools</a></li>
+          </ul>
+        </div>
+        
+      </div>
+
+                    
+
+
+
+      </div>
+    </header>
+    <!-- Content
+    ================================================== -->
+    <div id="mplus-content">
+      
+
+<!-- Breadcrumbs -->
+<div id="breadcrumbs">
+  <span class="hide-offscreen">You Are Here:</span>
+  <div itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+    <a href="https://www.nlm.nih.gov/medlineplus/" itemprop="url"><span itemprop="title">Home</span></a>
+    &rarr;
+  </div>
+  <div class="current-page">
+    <span>MedlinePlus Connect</span>
+  </div>
+</div>
+<span class="page-url print-only">URL of this page: https://www.nlm.nih.gov/medlineplus/connect/overview.html</span>
+
+<!-- Article -->
+ <article>
+    
+   <div class="page-info">
+     <!-- Page Title-->
+     <div class="page-title">
+       <a name="start" id="start"></a>
+       <h1 class="with-also">MedlinePlus Connect</h1>
+       <span class="alsocalled">Linking Patient Portals and EHRs to Consumer Health Information</span>
+     </div>
+     <!-- Page Actions - Sharing, RSS, Print, Etc -->
+     <div class="page-actions">
+       <div class="addthis_toolbox"><span><a target="EmailWin" class="email_icon" title="Email this page to a friend" href="mailto:?subject=MedlinePlus%20Connect%3A%20Linking%20Patient%20Portals%20and%20Electronic%20Health%20Records%20to%20Health%20Information&amp;body=I%20found%20this%20information%20on%20MedlinePlus%2Egov%20and%20I%27d%20like%20to%20share%20it%20with%20you%3A%0A%0Ahttps%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Fconnect%2Foverview%2Ehtml%0A%0AMedlinePlus%20%28https%3A%2F%2Fmedlineplus%2Egov%29%3A%20Trusted%20Health%20Information%20for%20you%20%0A%0ATo%20get%20updates%20by%20email%20when%20new%20information%20becomes%20available%20on%20MedlinePlus%2C%20sign%20up%20at%20https%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2Fmedlineplus%2Flistserv%2Ehtml%2E%0A%0A"><img alt="Email this page to a friend" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_email.png"/></a></span>
+         <span class="addthis-box">
+           <a class="addthis_button_facebook" title="Facebook">
+             <img class="share-icon" alt="Facebook" src="https://www.nlm.nih.gov/medlineplus/images/i_share_fb.png"/>
+           </a>
+         </span>
+         <span class="addthis-box">
+           <a class="addthis_button_twitter" title="Twitter">
+             <img class="share-icon" alt="Twitter" src="https://www.nlm.nih.gov/medlineplus/images/i_share_twitter.png"/>
+           </a>
+         </span>
+         <span>
+           <a title="Bookmark &amp; Share" href="https://www.addthis.com/bookmark.php?pub=medlineplus&amp;title=MedlinePlus%20Connect%3A%20Linking%20Patient%20Portals%20and%20Electronic%20Health%20Records%20to%20Health%20Information" target="_blank">
+             <img alt="Bookmark &amp; Share" class="share-icon" src="https://www.nlm.nih.gov/medlineplus/images/i_share_addthis.png"/>
+           </a>
+         </span>
+       </div>
+     </div>
+     <noscript>
+       <span class="js-disabled-message">To use the sharing features on this page, please enable JavaScript.</span>
+     </noscript>
+   </div>
+ 
+     <!-- Page Content -->
+     <img class="decor-image" src="https://www.nlm.nih.gov/medlineplus/images/connect_overview.jpg" alt="Doctor and patient talking" />
+     <p>MedlinePlus Connect helps patients and health care providers access consumer health information at the point of need in a health IT system. Patient portals, patient health record (PHR) systems, and electronic health record (EHR) systems can use MedlinePlus Connect to provide health information for patients, families, and healthcare providers using standard clinical vocabularies for diagnoses (problem codes), medications, and lab tests.
+     </p>
+     
+     <p>MedlinePlus Connect is a free service of the National Library of Medicine (NLM), National Institutes of Health (NIH), and the Department of Health and Human Services (HHS). 
+     </p>
+
+     <section>
+     	<h2>MedlinePlus Connect Quick Facts</h2>
+      		
+      		<ul class="bulletlist">
+     			<li>
+     				Free, does not require registration.
+     			</li>
+     			<li>
+     				Fulfills one of the criteria for <a href="http://www.cms.gov/EHRIncentivePrograms/30_Meaningful_Use.asp" TARGET="TheNewWin">Meaningful Use</a> of Health Information Technology.
+     			</li>
+     			<li>
+     				Implementing MedlinePlus Connect makes a global change; you don't need to create individual links.
+     			</li>
+     			<li>
+     				Accepts information requests based on coding systems already used by EHRs.
+     			</li>
+     			<li>
+     				Supports the HL7 Context-Aware Knowledge Retrieval (Infobutton) standard.
+     			</li>
+     			<li>
+     				Supports requests for information in English or Spanish.
+     			</li>
+     			<li>
+     				You don't have to use MedlinePlus Connect exclusively to link to patient education information. 
+     			    Many EHR systems can be configured to link to more than one source of consumer health information.
+     			</li>
+     			<li>
+     				Intended for use within the U.S. health care system and with coding systems used in the United States.
+     			</li>
+     		</ul>     	
+     </section>
+
+	<section>
+     	<h2>The Basics</h2>
+      	
+			<p>MedlinePlus Connect accepts requests for information on <strong>diagnoses (problem codes), medications</strong>, and <strong>lab tests</strong>, and returns related information from <a href="https://www.nlm.nih.gov/medlineplus/">MedlinePlus</a>.</p>
+
+			<p>This API is available as a <a href="https://www.nlm.nih.gov/medlineplus/connect/application.html">Web application</a> or a <a href="https://www.nlm.nih.gov/medlineplus/connect/service.html">Web service</a>.</p>	
+				
+      		<a href="https://www.nlm.nih.gov/medlineplus/images/connect_overview_process.png" class="large-click-img" role="img" title="A flow chart demonstrating how electronic health record systems send medical codes to MedlinePlus Connect. Connect returns targeted health information to the EHR system."><img alt="A flow chart demonstrating how electronic health record systems send medical codes to MedlinePlus Connect. Connect returns targeted health information to the EHR system." src="https://www.nlm.nih.gov/medlineplus/images/connect_overview_process.png"><span>View image full size</span></a>
+          <br>
+
+      		<ul class="bulletlist">
+     			<li>
+     				Find out more details about <a href="https://www.nlm.nih.gov/medlineplus/connect/howitworks.html">how MedlinePlus Connect works</a>, what codes it accepts, and what it looks like within an electronic health record or patient health portal.
+     			</li>
+      		
+      			<li>
+      				View a sample of the <a href="https://www.nlm.nih.gov/medlineplus/connect/users.html">health care organizations and electronic health records systems</a> that currently use MedlinePlus Connect.
+      			</li>
+     		</ul>
+     </section>
+
+     <section>
+     	<h2>Implementing MedlinePlus Connect</h2>
+     	<p>
+     		To set up the MedlinePlus Connect <a href="https://www.nlm.nih.gov/medlineplus/connect/application.html">Web application</a> or <a href="https://www.nlm.nih.gov/medlineplus/connect/service.html">Web service</a>, work with a technical representative or staff member in your organization who can use the MedlinePlus Connect Web application or Web service. Check out our <a href="https://www.nlm.nih.gov/medlineplus/connect/technical.html">technical documentation</a> for more detailed information and demonstrations.  
+     	</p>
+       </section>
+ 
+     <section>
+     	<a name="resourcesnews"></a><h2>Resources and News</h2>
+     	<ul class="bulletlist">
+     		<li>
+     			MedlinePlus Connect <a href="https://www.nlm.nih.gov/medlineplus/connect/medlineplusconnecthandout.pdf" TARGET="TheNewWin">handout</a> - PDF
+     		</li>
+     		<li>
+     			MedlinePlus Connect <a href="http://nnlm.gov/training/resources/mpconnect.pdf" TARGET="TheNewWin">tri-fold brochure</a> - PDF
+     		</li>
+     		<li>
+     			Radio interview, <a href="http://www.federalnewsradio.com/?nid=85&sid=2447808" TARGET="TheNewWin">NIH Connects Patients, Providers with Health Care Info</a>
+     		</li>
+     		<li>
+     			<a href="https://webmeeting.nih.gov/p92647717/" TARGET="TheNewWin">Webcast for UMLS users and health IT developers</a>, 
+     			covering MedlinePlus Connect technical essentials 
+     		</li>
+     		<li>
+     			<a href="https://webmeeting.nih.gov/p81856099/" TARGET="TheNewWin">Webcast for HRSA grantees and health care providers</a>, 
+     			including a presentation from a MedlinePlus Connect user
+     		</li> 
+     	</ul>
+     </section>
+
+     <section>
+     	<h2>More Information </h2>
+     	<ul class="bulletlist">
+     		<li>
+     			<a href="https://www.nlm.nih.gov/medlineplus/connect/howitworks.html">How MedlinePlus Connect Works</a>
+     		</li>
+     		<li> 
+     			Demonstrations &mdash; <a href="https://apps.nlm.nih.gov/medlineplus/services/demo.html">Web application</a>
+     			and <a href="https://apps.nlm.nih.gov/medlineplus/services/servicedemo.cfm">Web service</a>
+     		</li>
+     		<li>
+     			<a href="https://www.nlm.nih.gov/medlineplus/connect/technical.html">Technical information</a> for developers 
+     		</li>
+     		<li>
+     			<a href="https://www.nlm.nih.gov/medlineplus/connect/faqs.html">Frequently Asked Questions (FAQs)</a>
+     		</li>
+     		<li>
+     			MedlinePlus Connect <a href="https://www.nlm.nih.gov/medlineplus/connect/emaillist.html">email list</a> 
+     		</li>
+     		<li>
+     			<a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&from=https://www.nlm.nih.gov/medlineplus/connect/overview.html">Contact</a> MedlinePlus Connect
+     		</li>
+
+     	</ul>
+     </section>
+
+  </article>
+
+
+    </div>
+    <!-- Footer
+    ================================================== -->
+    <footer>
+      <div id="mplus-footer">
+        <div class="footer1">
+          <ul class="secondarynav">
+            <li><a href="https://www.nlm.nih.gov/medlineplus/aboutmedlineplus.html">About MedlinePlus</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/sitemap.html">Site Map</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/faq/faq.html">FAQs</a></li>
+            <li><a href="https://apps.nlm.nih.gov/medlineplus/contact/index.cfm?lang=en&amp;from=https://www.nlm.nih.gov/medlineplus/connect/overview.html">Contact Us</a></li>
+          </ul>
+          <ul>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/listserv.html"><span class="icon icon-email-update"></span>Get email updates</a></li>
+            <li><a href="https://www.nlm.nih.gov/medlineplus/rss.html"><span class="icon icon-rss"></span>Subscribe to RSS</a></li>
+            <li><a href="http://twitter.com/medlineplus" target="_blank"><span class="icon icon-twitter"></span>Follow us on Twitter</a></li>
+          </ul>
+    </div>
+    <div class="footer2">
+      <ul>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/disclaimers.html">Disclaimers</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/copyright.html" >Copyright</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/privacy.html">Privacy</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/accessibility.html">Accessibility</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/criteria.html">Quality Guidelines</a></li>
+        <li><a href="https://www.nlm.nih.gov/medlineplus/plugins.html">Viewers &amp; Players</a></li>
+        
+          <li><a href="https://www.nlm.nih.gov/medlineplus/connect/overview.html">MedlinePlus Connect for EHRs</a></li>
+          <li><a href="https://www.nlm.nih.gov/medlineplus/fordevelopers.html">For Developers</a></li>
+        
+      </ul>
+      
+      <div class="address">
+        <a href="https://www.nlm.nih.gov" target="_blank">U.S. National Library of Medicine</a>
+        <span>8600 Rockville Pike, Bethesda, MD 20894</span>
+        <a href="http://www.hhs.gov" target="_blank">U.S. Department of Health and Human Services</a>
+        <a href="http://www.nih.gov" target="_blank">National Institutes of Health</a>
+        
+      </div>
+
+        
+          <div class="date">
+            
+              <span id="lastupdate">Page last updated on 28 October 2015</span>
+              
+          </div>
+        
+      <div class="return-top"><a href="#top" title="Return to top"><img class="return-top-icon" alt="Return to top" src="https://www.nlm.nih.gov/medlineplus/images/return-top.png"></a></div>
+    </div>
+  </div>
+  </footer>
+  </div><!-- End Wrap -->
+  <!-- Scripts
+  ================================================== -->
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <!--[if lte IE 9]>
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/jquery.placeholder.js" type="text/javascript"></script>
+  <![endif]-->
+
+  <script src="//www.nlm.nih.gov/medlineplus/jslib/mplus-frontend-controls.js" type="text/javascript"></script>
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 4.1  -->
+<!-- Created: 8/27/2012 5:18:28 PM -->
+<script src="//www.nlm.nih.gov/medlineplus/jslib/webtrends.js" type="text/javascript"></script>
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+_tag.dcsCustom=function(){
+_tag.DCSext.dcsid=_tag.dcsid;
+}
+
+
+_tag.trackAllEvents=true;
+
+
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//wtsdc.nlm.nih.gov/dcsholgz500000kf5i8zqwqax_4f6n/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.nlm.nih.gov&amp;dcsid=dcsholgz500000kf5i8zqwqax_4f6n"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+
+
+
+<script src="//www.nlm.nih.gov/medlineplus/jslib/control.js" type="text/javascript"></script>
+
+  <script type="text/javascript" src="//www.nlm.nih.gov/medlineplus/utilities/lostatic.js"></script>
+
+</body>
+</html>
