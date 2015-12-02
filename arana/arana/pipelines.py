@@ -9,7 +9,7 @@ import json
 
 class AranaPipeline(object):	
 	def process_item(self, item, spider):
-		temp = str(item['titulo']).strip('[u\'').strip('\']').replace(':', '')
+		temp = str(item['titulo']).strip('[u\'').strip('\']').replace(':', '').replace(' ','')
 		self.file = open('../paginas/' + temp + '.txt', 'wb')
 		line = item['texto'] + "\n"
 		self.file.write(line)
