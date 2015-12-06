@@ -22,6 +22,23 @@ public class Parser {
         this.path = path;
     }
     
+    public String getFile(String path) throws FileNotFoundException{
+        BufferedReader br = new BufferedReader(new FileReader("..\\paginas\\"+path));
+        String everything = "";
+        try {
+            String line = br.readLine();
+            while (line != null) {
+                everything += line + "\n";
+                line = br.readLine();
+            }
+            br.close();
+        } catch (IOException ex) {
+            Logger.getLogger(Parser.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        //System.out.print(everything);
+        return everything;
+    }
+    
     public String getStrFile() throws FileNotFoundException{
         BufferedReader br = new BufferedReader(new FileReader(path));
         String everything = "";
