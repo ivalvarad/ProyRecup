@@ -64,7 +64,7 @@ public class SearchEngine {
         //System.out.println(myIndex.toString());
     }
     
-    public ArrayList processQuery(String query){//public ArrayList<String> processQuery(String query){
+    public ArrayList<String> processQuery(String query){//public ArrayList<String> processQuery(String query){
         return myQP.processQuery(query);
         //buildIndex();
         //System.out.println(myIndex.toString());

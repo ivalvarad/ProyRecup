@@ -1,5 +1,7 @@
 package searchengine;
 
+import javax.swing.JFrame;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -16,6 +18,7 @@ public class ViewDoc extends javax.swing.JFrame {
      * Creates new form ViewDoc
      */
     public ViewDoc() {
+        this.setExtendedState(JFrame.MAXIMIZED_BOTH); 
         initComponents();
     }
 
@@ -57,7 +60,7 @@ public class ViewDoc extends javax.swing.JFrame {
                 .addContainerGap()
                 .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 21, Short.MAX_VALUE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 251, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 251, Short.MAX_VALUE)
                 .addContainerGap())
         );
 
