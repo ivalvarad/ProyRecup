@@ -70,4 +70,8 @@ public class SearchEngine {
         //System.out.println(myIndex.toString());
     }
     
+    public ArrayList<String> getSuggestions()
+    {
+        return myQP.getSuggestions();
+    }    
 }

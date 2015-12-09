@@ -132,12 +132,21 @@ public class Interface extends javax.swing.JFrame {
     This method, when clicked, is going to tell the SearchEngine that a new query has got to be processed.
     */
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        // TODO add your handling code here:
+        ArrayList suggestions = searchEngine.getSuggestions();
+        DefaultListModel model2 = new DefaultListModel();
+        for(int i = 0; i < suggestions.size() ; i++) 
+        {
+            System.out.println(suggestions.get(i));
+            model2.addElement(suggestions.get(i));
+            jList2.setModel(model2);
+        }
+        
         ArrayList re = searchEngine.processQuery(jTextField1.getText());
         ArrayList result = searchEngine.processQuery(jTextField1.getText());
         DefaultListModel model = new DefaultListModel();
-        for(int i = 0; i < result.size() ; i++) {
-            System.out.println(result.get(i));
+        for(int i = 0; i < result.size() ; i++) 
+        {
+            // System.out.println(result.get(i));
             model.addElement(result.get(i));
             jList1.setModel(model);
         }

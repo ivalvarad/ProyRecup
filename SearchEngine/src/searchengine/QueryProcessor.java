@@ -10,6 +10,9 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+import java.io.File;
+import java.io.PrintWriter;
+import java.util.Scanner;
 
 /**
  *
@@ -27,6 +30,7 @@ public class QueryProcessor
     private Index index;
     double[][] rankingTable;
     private ArrayList<String> stopwords;
+    private ArrayList<String> suggestions;
     private static final int collectionSize = 50;
 
     // loads what need the instance to function correctly.
@@ -37,7 +41,15 @@ public class QueryProcessor
         try 
         {
             // loads the stop-words file to main memory.
-            loadStopWords("..\\stopwords.txt");
+            loadStopWords("..\\stopwords.txt", true);
+        }
+        catch(FileNotFoundException ex){}
+        // contains the name of the documents recently sought.
+        suggestions = new ArrayList<>();
+        try 
+        {
+            // loads the stop-words file to main memory.
+            loadStopWords("..\\sugerencias.txt", false);
         }
         catch(FileNotFoundException ex){}
     }
@@ -45,7 +57,7 @@ public class QueryProcessor
     // processes a file with the stop-words
     // and loads them to memory.
     // stop-words are supposed to be one in each line of the file.
-    public final void loadStopWords(String path) throws FileNotFoundException
+    public final void loadStopWords(String path, boolean stopwordL) throws FileNotFoundException
     {
         BufferedReader br = new BufferedReader(new FileReader(path));
         try
@@ -54,7 +66,14 @@ public class QueryProcessor
             while (line != null) 
             {
                 // obtains the whole line and saves it in the list of stop-words.
-                stopwords.add(line);
+                if(stopwordL == true)
+                {
+                    stopwords.add(line);
+                }
+                else
+                {
+                    suggestions.add(line);
+                }                
                 line = br.readLine();                
             }
             br.close();
@@ -88,7 +107,11 @@ public class QueryProcessor
         {
             result.add("Results not found\n");
         }
-		printRankingTable();
+        if(!result.isEmpty())
+        {
+            saveSuggestions(result);
+            printRankingTable();
+        }
         return result;
     }
     
@@ -443,7 +466,7 @@ public class QueryProcessor
         }
     }
 	
-	public void printRankingTable()
+    public void printRankingTable()
     {
         for(int i = 0; i < rankingTable.length; ++i)
         {
@@ -453,5 +476,87 @@ public class QueryProcessor
             }
             System.out.println("");
         }
+    }
+    
+    public void saveSuggestions(ArrayList<String> queryResults)
+    {
+        ArrayList<String> newSuggestions = new ArrayList();
+        File archivo = new File("..\\sugerencias.txt");
+        if(!queryResults.isEmpty())
+        {
+            newSuggestions = setUnion(queryResults, suggestions);
+            try
+            {
+                PrintWriter escritura = new PrintWriter(archivo);
+                int least = newSuggestions.size() < 11 ? newSuggestions.size() : 10;
+                for(int i = 0; i < least; ++i)
+                {
+                    escritura.println(newSuggestions.get(i));
+                }
+                escritura.close();
+            }
+            catch(Exception e){}
+        }        
+    }
+    
+    public ArrayList<String> setUnion(ArrayList<String> A, ArrayList<String> B)
+    {
+        ArrayList<String> ans = new ArrayList<>();
+        String word1 = "";
+        String word2 = "";
+        ans = setIntersection(A, B);
+        int mayor = A.size() > B.size() ? A.size() : B.size();
+        for(int i = 0; i < mayor; ++i)
+        {
+            if(i < A.size())
+            {
+                word1 = A.get(i);
+                word1 = word1.trim();
+            }
+            if(i < B.size())
+            {
+                word2 = B.get(i);
+                word2 = word2.trim();
+            }
+            if(!belongsTo(word1, ans) && i < A.size())
+            {
+                ans.add(A.get(i));
+            }
+            if(!belongsTo(word2, ans) && i < B.size())
+            {
+                ans.add(B.get(i));
+            }
+        }
+        return ans;
+    }
+    
+    private boolean belongsTo(String x, ArrayList<String> C)
+    {
+        for(int i = 0; i < C.size(); ++i)
+        {
+            if(x.compareToIgnoreCase(C.get(i)) == 0)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    
+    public ArrayList<String> getSuggestions()
+    {
+        ArrayList<String> ans = suggestions;
+        reloadSuggestions();
+        return ans;
+    }
+        
+    public void reloadSuggestions()
+    {
+        suggestions.clear();
+        try 
+        {
+            // loads the stop-words file to main memory.
+            loadStopWords("..\\sugerencias.txt", false);
+        }
+        catch(FileNotFoundException ex){}
     }
 }
