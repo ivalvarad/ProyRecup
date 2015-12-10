@@ -73,5 +73,15 @@ public class SearchEngine {
     public ArrayList<String> getSuggestions()
     {
         return myQP.getSuggestions();
-    }    
+    }
+    
+    public boolean validateQuery(String query)
+    {
+        return myQP.validateQuery(query);
+    }
+    
+    public ArrayList<String> stringToArrayList(String s)
+    {
+        return myQP.separateWords2(s);
+    }
 }

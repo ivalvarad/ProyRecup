@@ -1,6 +1,7 @@
 package searchengine;
 
 import javax.swing.JFrame;
+import java.util.ArrayList;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -38,8 +39,12 @@ public class ViewDoc extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jTextArea1.setColumns(20);
+        jTextArea1.setFont(new java.awt.Font("MS Gothic", 0, 12)); // NOI18N
         jTextArea1.setRows(5);
         jScrollPane1.setViewportView(jTextArea1);
+
+        jLabel1.setFont(new java.awt.Font("Verdana", 1, 14)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(102, 0, 0));
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -50,15 +55,15 @@ public class ViewDoc extends javax.swing.JFrame {
                 .addComponent(jScrollPane1)
                 .addContainerGap())
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
-                .addContainerGap(154, Short.MAX_VALUE)
-                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 101, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(154, 154, 154)
+                .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 101, Short.MAX_VALUE)
                 .addGap(145, 145, 145))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, 21, Short.MAX_VALUE)
+                .addComponent(jLabel1, javax.swing.GroupLayout.PREFERRED_SIZE, 21, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 251, Short.MAX_VALUE)
                 .addContainerGap())
@@ -101,12 +106,29 @@ public class ViewDoc extends javax.swing.JFrame {
             }
         });
     }
-    public void setTitle(String a){
-    jLabel1.setText(a);
+    public void setTitle(String a)
+    {
+        jLabel1.setText(a);
     }
     
-    public void setDoc(String a){
-        jTextArea1.append(a);
+    public void setDoc(ArrayList<String> a)
+    {
+        int spacer = 0;
+        for(int i = 0; i < a.size(); ++i)
+        {
+            jTextArea1.append(a.get(i) + " ");
+            if(a.get(i).endsWith("."))
+            {
+                jTextArea1.append("\n");
+                spacer -= spacer % 25;
+                ++spacer;
+            }
+            if(spacer % 25 == 0)
+            {
+                jTextArea1.append("\n");
+            }
+            ++spacer;
+        }
     }
     
     // Variables declaration - do not modify//GEN-BEGIN:variables

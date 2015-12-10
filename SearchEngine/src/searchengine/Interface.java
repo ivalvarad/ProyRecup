@@ -7,6 +7,9 @@ import java.util.logging.Logger;
 import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
 
+import Traductor.Translate;
+import Traductor.Detect;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -23,10 +26,15 @@ public class Interface extends javax.swing.JFrame {
      * Creates new form Interfaz
      */
     private static SearchEngine searchEngine;
+    private static Traductor.Translate translator;
+    private static Traductor.Detect detector;
     public Interface(SearchEngine searchEngine) {
         this.searchEngine = searchEngine;
+        translator = new Traductor.Translate();
+        detector = new Traductor.Detect();
         this.setExtendedState(JFrame.MAXIMIZED_BOTH); 
         initComponents();
+        jButton2.setVisible(false);
     }
 
     /**
@@ -47,11 +55,16 @@ public class Interface extends javax.swing.JFrame {
         jScrollPane1 = new javax.swing.JScrollPane();
         jList2 = new javax.swing.JList();
         jLabel3 = new javax.swing.JLabel();
+        jLabel4 = new javax.swing.JLabel();
+        jButton2 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Barra de búsqueda");
+        jLabel1.setFont(new java.awt.Font("Verdana", 1, 16)); // NOI18N
+        jLabel1.setForeground(new java.awt.Color(0, 102, 102));
+        jLabel1.setText("MedSeek");
 
+        jButton1.setFont(new java.awt.Font("Verdana", 1, 12)); // NOI18N
         jButton1.setText("Buscar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -59,6 +72,8 @@ public class Interface extends javax.swing.JFrame {
             }
         });
 
+        jLabel2.setFont(new java.awt.Font("Verdana", 1, 12)); // NOI18N
+        jLabel2.setForeground(new java.awt.Color(0, 153, 153));
         jLabel2.setText("Resultados");
 
         jList1.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -75,54 +90,80 @@ public class Interface extends javax.swing.JFrame {
         });
         jScrollPane1.setViewportView(jList2);
 
-        jLabel3.setText("Búsquedas recientes");
+        jLabel3.setFont(new java.awt.Font("Verdana", 1, 12)); // NOI18N
+        jLabel3.setForeground(new java.awt.Color(0, 204, 204));
+        jLabel3.setText("Búsquedas Recientes");
+
+        jLabel4.setFont(new java.awt.Font("Verdana", 1, 14)); // NOI18N
+        jLabel4.setForeground(new java.awt.Color(0, 102, 153));
+        jLabel4.setText("Barra de Búsqueda");
+
+        jButton2.setFont(new java.awt.Font("Verdana", 3, 10)); // NOI18N
+        jButton2.setText("Try in English");
+        jButton2.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                jButton2ActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, layout.createSequentialGroup()
+            .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jTextField1)
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jLabel2)
-                            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 244, Short.MAX_VALUE))
+                            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 168, Short.MAX_VALUE))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addComponent(jScrollPane1)
                             .addGroup(layout.createSequentialGroup()
                                 .addComponent(jLabel3)
-                                .addGap(0, 77, Short.MAX_VALUE))))
+                                .addGap(0, 113, Short.MAX_VALUE))))
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel1)
-                            .addComponent(jButton1))
-                        .addGap(0, 0, Short.MAX_VALUE)))
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(jTextField1)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jButton1))
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(jLabel4)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
+                                .addComponent(jButton2, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)))
+                        .addGap(6, 6, 6))
+                    .addComponent(jLabel1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
-                .addComponent(jLabel1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jTextField1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(jButton1)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addGroup(layout.createSequentialGroup()
+                        .addComponent(jLabel1)
+                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                        .addComponent(jLabel4))
+                    .addComponent(jButton2, javax.swing.GroupLayout.Alignment.TRAILING))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
+                .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
+                    .addComponent(jButton1)
+                    .addGroup(layout.createSequentialGroup()
+                        .addGap(1, 1, 1)
+                        .addComponent(jTextField1)))
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
                     .addComponent(jLabel3))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+                    .addComponent(jScrollPane2)
                     .addGroup(layout.createSequentialGroup()
-                        .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 175, Short.MAX_VALUE)
-                        .addGap(19, 19, 19))
-                    .addGroup(layout.createSequentialGroup()
-                        .addComponent(jScrollPane1, javax.swing.GroupLayout.PREFERRED_SIZE, 103, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))))
+                        .addComponent(jScrollPane1, javax.swing.GroupLayout.DEFAULT_SIZE, 78, Short.MAX_VALUE)
+                        .addGap(106, 106, 106)))
+                .addGap(36, 36, 36))
         );
 
         pack();
@@ -132,22 +173,45 @@ public class Interface extends javax.swing.JFrame {
     This method, when clicked, is going to tell the SearchEngine that a new query has got to be processed.
     */
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
-        ArrayList suggestions = searchEngine.getSuggestions();
+        ArrayList suggestions = eliminateExtensions(searchEngine.getSuggestions());
         DefaultListModel model2 = new DefaultListModel();
         for(int i = 0; i < suggestions.size() ; i++) 
         {
-            System.out.println(suggestions.get(i));
+            // System.out.println(suggestions.get(i));
+            
             model2.addElement(suggestions.get(i));
             jList2.setModel(model2);
         }
         
-        ArrayList re = searchEngine.processQuery(jTextField1.getText());
-        ArrayList result = searchEngine.processQuery(jTextField1.getText());
-        DefaultListModel model = new DefaultListModel();
-        for(int i = 0; i < result.size() ; i++) 
+        if(searchEngine.validateQuery(jTextField1.getText()))
         {
-            // System.out.println(result.get(i));
-            model.addElement(result.get(i));
+            // ArrayList re = searchEngine.processQuery(jTextField1.getText());
+            ArrayList result = eliminateExtensions(searchEngine.processQuery(jTextField1.getText()));
+            DefaultListModel model = new DefaultListModel();
+            for(int i = 0; i < result.size() ; i++) 
+            {
+                // System.out.println(result.get(i));
+                model.addElement(result.get(i));
+                jList1.setModel(model);
+            }
+            String originalQuery = jTextField1.getText();
+            String languageDetected = detector.detectarIdioma(originalQuery);
+            // translated the query to the domain language.
+            String translatedQuery = translator.traducirPalabra(originalQuery, languageDetected, "en");
+            // ArrayList re = searchEngine.processQuery(translatedQuery);
+            if(searchEngine.validateQuery(translatedQuery))
+            {
+                ArrayList resultT = eliminateExtensions(searchEngine.processQuery(translatedQuery));
+                if(!resultT.isEmpty())
+                {
+                    jButton2.setVisible(true);
+                }
+            }
+        }
+        else
+        {
+            DefaultListModel model = new DefaultListModel();
+            model.addElement("Results not found");
             jList1.setModel(model);
         }
     }//GEN-LAST:event_jButton1ActionPerformed
@@ -160,13 +224,38 @@ public class Interface extends javax.swing.JFrame {
          ViewDoc doc = new ViewDoc();
          doc.setTitle(jList1.getSelectedValue().toString());
             try {
-                doc.setDoc(searchEngine.getFile(jList1.getSelectedValue().toString()));
+                doc.setDoc(searchEngine.stringToArrayList(searchEngine.getFile((jList1.getSelectedValue().toString()) + ".txt")));
             } catch (FileNotFoundException ex) {
                 Logger.getLogger(Interface.class.getName()).log(Level.SEVERE, null, ex);
             }
          doc.setVisible(true);
         }
     }//GEN-LAST:event_jList1MouseClicked
+
+    private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+        ArrayList suggestions = eliminateExtensions(searchEngine.getSuggestions());
+        DefaultListModel model2 = new DefaultListModel();
+        for(int i = 0; i < suggestions.size() ; i++) 
+        {
+            // System.out.println(suggestions.get(i));
+            model2.addElement(suggestions.get(i));
+            jList2.setModel(model2);
+        }
+        String originalQuery = jTextField1.getText();
+        String languageDetected = detector.detectarIdioma(originalQuery);
+        // translated the query to the domain language.
+        String translatedQuery = translator.traducirPalabra(originalQuery, languageDetected, "en");
+        // ArrayList re = searchEngine.processQuery(translatedQuery);
+        ArrayList result = eliminateExtensions(searchEngine.processQuery(translatedQuery));
+        DefaultListModel model = new DefaultListModel();
+        for(int i = 0; i < result.size() ; i++) 
+        {
+            // System.out.println(result.get(i));
+            model.addElement(result.get(i));
+            jList1.setModel(model);
+        }
+        jButton2.setVisible(false);
+    }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
      * @param args the command line arguments
@@ -203,12 +292,35 @@ public class Interface extends javax.swing.JFrame {
             }
         });
     }
-
+    
+    private String eliminateExtension(String filename)
+    {
+        int pos = filename.indexOf(".");
+        if(pos != -1)
+        {
+            return filename.substring(0, pos);
+        }
+        return filename;
+    }
+    
+    private ArrayList<String> eliminateExtensions(ArrayList<String> filenames)
+    {
+        ArrayList<String> ans = new ArrayList();
+        for(int i = 0; i < filenames.size(); ++i)
+        {
+            ans.add(eliminateExtension(filenames.get(i)));
+        }
+        return ans;
+    }
+    
+    
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton jButton1;
+    private javax.swing.JButton jButton2;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel4;
     private javax.swing.JList jList1;
     private javax.swing.JList jList2;
     private javax.swing.JScrollPane jScrollPane1;

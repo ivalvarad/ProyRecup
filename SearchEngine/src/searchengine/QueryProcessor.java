@@ -484,19 +484,27 @@ public class QueryProcessor
         File archivo = new File("..\\sugerencias.txt");
         if(!queryResults.isEmpty())
         {
-            newSuggestions = setUnion(queryResults, suggestions);
-            try
+            if(queryResults.size() == 1 && queryResults.get(0).compareToIgnoreCase("Results not found\n") == 0)
             {
-                PrintWriter escritura = new PrintWriter(archivo);
-                int least = newSuggestions.size() < 11 ? newSuggestions.size() : 10;
-                for(int i = 0; i < least; ++i)
-                {
-                    escritura.println(newSuggestions.get(i));
-                }
-                escritura.close();
+            
+            
             }
-            catch(Exception e){}
-        }        
+            else
+            {
+                newSuggestions = setUnion(queryResults, suggestions);
+                try
+                {
+                    PrintWriter escritura = new PrintWriter(archivo);
+                    int least = newSuggestions.size() < 11 ? newSuggestions.size() : 10;
+                    for(int i = 0; i < least; ++i)
+                    {
+                        escritura.println(newSuggestions.get(i));
+                    }
+                    escritura.close();
+                }
+                catch(Exception e){}
+            }
+        }       
     }
     
     public ArrayList<String> setUnion(ArrayList<String> A, ArrayList<String> B)
@@ -558,5 +566,78 @@ public class QueryProcessor
             loadStopWords("..\\sugerencias.txt", false);
         }
         catch(FileNotFoundException ex){}
+    }
+    
+    public boolean validateQuery(String originalQuery)
+    {
+        ArrayList<String> queryWords = new ArrayList<>();
+        ArrayList<String> rawQuery = new ArrayList<>();
+        // ignore white-spaces and all that stuff.
+	queryWords = separateWords(originalQuery);
+	// eliminates the stop-words.
+	rawQuery = eliminateWords(queryWords);
+        if(!rawQuery.isEmpty())
+        {
+            return true;
+        }
+        return false;
+    }
+    
+    public ArrayList<String> separateWords2(String query)
+    {
+        ArrayList<String> result = new ArrayList<>();
+        char c;
+	String aux;
+	int pos1 = 0;
+	int pos2 = 0;
+
+	for(int i = 0; i < query.length(); ++i)
+	{
+            c = query.charAt(i);
+            // white spaces are ignored.
+            if(validateChar(c) == true)
+            {
+                pos1 = i;
+                // leaves the index on an invalid char.
+                while((validateChar2(c) == true) && i < query.length())
+                {
+                    pos2 = i;
+                    ++i;
+                    if(i < query.length()-1)
+                    {
+                        c = query.charAt(i);
+                    }
+                }
+                if(pos2 == query.length())
+                {
+                    --pos2;
+                }
+                aux = query.substring(pos1, pos2+1);
+                // saves the sub-string.
+                result.add(aux);
+            }		
+        }
+        return result;
+    }
+    
+    public boolean validateChar2(char c)
+    {
+        boolean ans = false;
+        // verifies if the character is alphanumeric or not.
+        if(Character.isDigit(c) || Character.isLetter(c) || isSpecialChar(c))
+        {
+            ans = true;
+        }    
+        return ans;
+    }
+    
+    public boolean isSpecialChar(char c)
+    {
+        String specialchars = "/.*!@#$%^&*()\\\"{}_[]|\\\\?/<>,";
+        if(specialchars.contains("" + c))
+        {
+            return true;
+        }
+        return false;
     }
 }
