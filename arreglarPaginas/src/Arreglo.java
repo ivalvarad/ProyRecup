@@ -92,6 +92,7 @@ public class Arreglo {
     public void escribirArchivo(File archivo){
        try{
           PrintWriter escritura = new PrintWriter(archivo);
+          texto = texto.replace(". ", ".\n ");
           escritura.println(texto);
           escritura.close();
        }catch(Exception e){}
