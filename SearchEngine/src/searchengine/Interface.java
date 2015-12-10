@@ -35,6 +35,7 @@ public class Interface extends javax.swing.JFrame {
         this.setExtendedState(JFrame.MAXIMIZED_BOTH); 
         initComponents();
         jButton2.setVisible(false);
+        jLabel5.setVisible(false);
     }
 
     /**
@@ -57,6 +58,7 @@ public class Interface extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
         jLabel4 = new javax.swing.JLabel();
         jButton2 = new javax.swing.JButton();
+        jLabel5 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -106,6 +108,10 @@ public class Interface extends javax.swing.JFrame {
             }
         });
 
+        jLabel5.setFont(new java.awt.Font("Verdana", 2, 10)); // NOI18N
+        jLabel5.setForeground(new java.awt.Color(102, 204, 255));
+        jLabel5.setText("Resultados");
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -115,7 +121,11 @@ public class Interface extends javax.swing.JFrame {
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(layout.createSequentialGroup()
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                            .addComponent(jLabel2)
+                            .addGroup(layout.createSequentialGroup()
+                                .addComponent(jLabel2)
+                                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
+                                .addComponent(jLabel5)
+                                .addGap(0, 0, Short.MAX_VALUE))
                             .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 168, Short.MAX_VALUE))
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -156,7 +166,8 @@ public class Interface extends javax.swing.JFrame {
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel2)
-                    .addComponent(jLabel3))
+                    .addComponent(jLabel3)
+                    .addComponent(jLabel5))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jScrollPane2)
@@ -173,6 +184,7 @@ public class Interface extends javax.swing.JFrame {
     This method, when clicked, is going to tell the SearchEngine that a new query has got to be processed.
     */
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        jLabel5.setVisible(false);
         ArrayList suggestions = eliminateExtensions(searchEngine.getSuggestions());
         DefaultListModel model2 = new DefaultListModel();
         for(int i = 0; i < suggestions.size() ; i++) 
@@ -186,7 +198,21 @@ public class Interface extends javax.swing.JFrame {
         if(searchEngine.validateQuery(jTextField1.getText()))
         {
             // ArrayList re = searchEngine.processQuery(jTextField1.getText());
+            long StartTime = System.nanoTime();
             ArrayList result = eliminateExtensions(searchEngine.processQuery(jTextField1.getText()));
+            long estimatedTime = System.nanoTime() - StartTime;
+            if(!result.isEmpty())
+            {
+                if(result.get(0).toString().compareToIgnoreCase("Results not found\n") == 0)
+                {
+                }
+                else
+                {
+                    String time = "(" + result.size() + " resultados en " + estimatedTime/1000000 + " s)";
+                    jLabel5.setText(time);
+                    jLabel5.setVisible(true);
+                }
+            }
             DefaultListModel model = new DefaultListModel();
             for(int i = 0; i < result.size() ; i++) 
             {
@@ -199,7 +225,7 @@ public class Interface extends javax.swing.JFrame {
             // translated the query to the domain language.
             String translatedQuery = translator.traducirPalabra(originalQuery, languageDetected, "en");
             // ArrayList re = searchEngine.processQuery(translatedQuery);
-            if(searchEngine.validateQuery(translatedQuery))
+            if(searchEngine.validateQuery(translatedQuery) && languageDetected.compareToIgnoreCase("en") != 0)
             {
                 ArrayList resultT = eliminateExtensions(searchEngine.processQuery(translatedQuery));
                 if(!resultT.isEmpty())
@@ -233,6 +259,7 @@ public class Interface extends javax.swing.JFrame {
     }//GEN-LAST:event_jList1MouseClicked
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
+        jLabel5.setVisible(false);
         ArrayList suggestions = eliminateExtensions(searchEngine.getSuggestions());
         DefaultListModel model2 = new DefaultListModel();
         for(int i = 0; i < suggestions.size() ; i++) 
@@ -246,7 +273,21 @@ public class Interface extends javax.swing.JFrame {
         // translated the query to the domain language.
         String translatedQuery = translator.traducirPalabra(originalQuery, languageDetected, "en");
         // ArrayList re = searchEngine.processQuery(translatedQuery);
+        long StartTime = System.nanoTime();
         ArrayList result = eliminateExtensions(searchEngine.processQuery(translatedQuery));
+        long estimatedTime = System.nanoTime() - StartTime;
+        if(!result.isEmpty())
+        {
+            if(result.get(0).toString().compareToIgnoreCase("Results not found\n") == 0)
+            {
+            }
+            else
+            {
+                String time = "(" + result.size() + " resultados en " + estimatedTime/1000000 + " s)";
+                jLabel5.setText(time);
+                jLabel5.setVisible(true);
+            }      
+        }
         DefaultListModel model = new DefaultListModel();
         for(int i = 0; i < result.size() ; i++) 
         {
@@ -321,6 +362,7 @@ public class Interface extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel2;
     private javax.swing.JLabel jLabel3;
     private javax.swing.JLabel jLabel4;
+    private javax.swing.JLabel jLabel5;
     private javax.swing.JList jList1;
     private javax.swing.JList jList2;
     private javax.swing.JScrollPane jScrollPane1;
